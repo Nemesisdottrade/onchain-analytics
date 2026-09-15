@@ -1,31 +1,12 @@
 {
- "fetched_at": "2026-09-14T00:16:06.782Z",
- "cutoff_utc": "2026-09-14",
+ "fetched_at": "2026-09-15T18:18:09.674Z",
+ "cutoff_utc": "2026-09-15",
  "source": "https://api.llama.fi/overview/dexs/{chain}",
  "chains": {
   "ethereum": {
    "slug": "Ethereum",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 1350086236.82,
-     "headline": 1350086236.82,
-     "by_category": {
-      "Dexs": 1319128678.82,
-      "Yield": 6552204,
-      "Bridge": 25608,
-      "Payments": 363879,
-      "DEX Aggregator": 12723206,
-      "NFT Marketplace": 226373,
-      "Services": 64,
-      "Cross Chain Bridge": 15,
-      "Lending": 12631,
-      "Basis Trading": 35408,
-      "RWA": 6674246,
-      "Launchpad": 537,
-      "Crypto Card Issuer": 4343387
-     }
-    },
     "2026-07-16": {
      "total": 1108727808.7,
      "headline": 1108727808.7,
@@ -1039,47 +1020,45 @@
      "missing_est": 97484433.05
     },
     "2026-09-13": {
-     "total": 760355135.13,
-     "headline": 760355135.13,
+     "total": 754692196.76,
+     "headline": 754692196.76,
      "by_category": {
-      "Dexs": 741874124.8599999,
-      "Yield": 5470671,
-      "Payments": 49210,
-      "DEX Aggregator": 9621579,
-      "NFT Marketplace": 178693,
-      "Lending": 1158.02,
-      "Crypto Card Issuer": 1478657,
-      "Luck Games": 89007,
-      "Services": 0.25,
-      "Basis Trading": 79516,
-      "RWA": 1512519
+      "Dexs": 739385173.74,
+      "Yield": 4169909,
+      "Payments": 48386,
+      "DEX Aggregator": 7132013,
+      "NFT Marketplace": 175160,
+      "Lending": 1288.02,
+      "RWA": 2309806,
+      "Crypto Card Issuer": 1386799,
+      "Luck Games": 83662
+     }
+    },
+    "2026-09-14": {
+     "total": 1320363843.0700002,
+     "headline": 1320363843.0700002,
+     "by_category": {
+      "Dexs": 1264137580.46,
+      "Yield": 7717942,
+      "Payments": 1395326,
+      "DEX Aggregator": 25845882,
+      "NFT Marketplace": 305107,
+      "RWA": 8439761,
+      "Lending": 3004.61,
+      "Basis Trading": 537156,
+      "Crypto Card Issuer": 11823291,
+      "Luck Games": 158793
      }
     }
    },
-   "change_30dover30d": 50.64,
-   "total30d": 39433076090.03001,
-   "total24h": 696519078.55
+   "change_30dover30d": 61.44,
+   "total30d": 40277712090.50001,
+   "total24h": 1320363843.0700002
   },
   "solana": {
    "slug": "Solana",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 1616908248.6599998,
-     "headline": 1616908248.6599998,
-     "by_category": {
-      "Dexs": 1548764952,
-      "Bridge": 277,
-      "Payments": 104919,
-      "Yield": 295764,
-      "Launchpad": 60013389.089999996,
-      "RWA": 510155,
-      "Physical TCG": 7169712.57,
-      "Crypto Card Issuer": 14225,
-      "Lending": 24607,
-      "Prediction Market": 10248
-     }
-    },
     "2026-07-16": {
      "total": 1542660671.16,
      "headline": 1542660671.16,
@@ -1113,10 +1092,10 @@
      }
     },
     "2026-07-18": {
-     "total": 1208994897.08,
-     "headline": 1208994897.08,
+     "total": 1303497616.08,
+     "headline": 1303497616.08,
      "by_category": {
-      "Dexs": 1148208604,
+      "Dexs": 1242711323,
       "Payments": 77286,
       "Yield": 239355,
       "Launchpad": 54843643.08,
@@ -1128,10 +1107,10 @@
      }
     },
     "2026-07-19": {
-     "total": 1294051398.2,
-     "headline": 1294051398.2,
+     "total": 1417998314.2,
+     "headline": 1417998314.2,
      "by_category": {
-      "Dexs": 1237427443,
+      "Dexs": 1361374359,
       "Bridge": 370,
       "Payments": 63364,
       "Yield": 69550.2,
@@ -1144,10 +1123,10 @@
      }
     },
     "2026-07-20": {
-     "total": 1860494698.9099998,
-     "headline": 1860494698.9099998,
+     "total": 1985177787.9099998,
+     "headline": 1985177787.9099998,
      "by_category": {
-      "Dexs": 1791769449.01,
+      "Dexs": 1916452538.01,
       "Bridge": 6675,
       "Payments": 193986,
       "Yield": 38675,
@@ -1160,10 +1139,10 @@
      }
     },
     "2026-07-21": {
-     "total": 1488124604.31,
-     "headline": 1488124604.31,
+     "total": 1552390947.31,
+     "headline": 1552390947.31,
      "by_category": {
-      "Dexs": 1426823957.0900002,
+      "Dexs": 1491090300.0900002,
       "Payments": 118913,
       "Yield": 41428,
       "Launchpad": 53133339.22,
@@ -1175,10 +1154,10 @@
      }
     },
     "2026-07-22": {
-     "total": 1722980228.8799999,
-     "headline": 1722980228.8799999,
+     "total": 1767271659.8799999,
+     "headline": 1767271659.8799999,
      "by_category": {
-      "Dexs": 1641147403.78,
+      "Dexs": 1685438834.78,
       "Bridge": 200,
       "Payments": 1159622,
       "Yield": 5352,
@@ -1191,10 +1170,10 @@
      }
     },
     "2026-07-23": {
-     "total": 1476368718.72,
-     "headline": 1476368718.72,
+     "total": 1616428026.72,
+     "headline": 1616428026.72,
      "by_category": {
-      "Dexs": 1427611788,
+      "Dexs": 1567671096,
       "Payments": 204258,
       "Yield": 16746,
       "Cross Chain Bridge": 103,
@@ -1207,10 +1186,10 @@
      }
     },
     "2026-07-24": {
-     "total": 1539904263.94,
-     "headline": 1539904263.94,
+     "total": 1623052660.94,
+     "headline": 1623052660.94,
      "by_category": {
-      "Dexs": 1470142688.23,
+      "Dexs": 1553291085.23,
       "Bridge": 164,
       "Payments": 146254,
       "Yield": 4854,
@@ -1223,10 +1202,10 @@
      }
     },
     "2026-07-25": {
-     "total": 1050843180.9,
-     "headline": 1050843180.9,
+     "total": 1066541939.9,
+     "headline": 1066541939.9,
      "by_category": {
-      "Dexs": 984745758.9,
+      "Dexs": 1000444517.9,
       "Payments": 69875,
       "Yield": 9512,
       "Cross Chain Bridge": 78,
@@ -1239,10 +1218,10 @@
      }
     },
     "2026-07-26": {
-     "total": 1191194286.17,
-     "headline": 1191194286.17,
+     "total": 1225930127.17,
+     "headline": 1225930127.17,
      "by_category": {
-      "Dexs": 1124337663.17,
+      "Dexs": 1159073504.17,
       "Bridge": 478,
       "Payments": 55309,
       "Yield": 13865,
@@ -1255,10 +1234,10 @@
      }
     },
     "2026-07-27": {
-     "total": 1831704816.14,
-     "headline": 1831704816.14,
+     "total": 1874857617.14,
+     "headline": 1874857617.14,
      "by_category": {
-      "Dexs": 1753114664.23,
+      "Dexs": 1796267465.23,
       "Bridge": 792,
       "Payments": 240983,
       "Yield": 28494,
@@ -1271,10 +1250,10 @@
      }
     },
     "2026-07-28": {
-     "total": 1727330516.1499999,
-     "headline": 1727330516.1499999,
+     "total": 1759353963.1499999,
+     "headline": 1759353963.1499999,
      "by_category": {
-      "Dexs": 1642069984.6999998,
+      "Dexs": 1674093431.6999998,
       "Bridge": 576,
       "Payments": 485801,
       "Yield": 167682,
@@ -1287,10 +1266,10 @@
      }
     },
     "2026-07-29": {
-     "total": 1960625405.16,
-     "headline": 1960625405.16,
+     "total": 2020016584.16,
+     "headline": 2020016584.16,
      "by_category": {
-      "Dexs": 1870119662.53,
+      "Dexs": 1929510841.53,
       "Bridge": 200,
       "Payments": 140227,
       "Yield": 16232,
@@ -1303,10 +1282,10 @@
      }
     },
     "2026-07-30": {
-     "total": 1572004378.25,
-     "headline": 1572004378.25,
+     "total": 1613982015.25,
+     "headline": 1613982015.25,
      "by_category": {
-      "Dexs": 1477876502,
+      "Dexs": 1519854139,
       "Bridge": 480,
       "Payments": 605635,
       "Yield": 65380,
@@ -1319,10 +1298,10 @@
      }
     },
     "2026-07-31": {
-     "total": 1692514657.08,
-     "headline": 1692514657.08,
+     "total": 1726152519.08,
+     "headline": 1726152519.08,
      "by_category": {
-      "Dexs": 1607518640.07,
+      "Dexs": 1641156502.07,
       "Bridge": 94,
       "Payments": 2268296,
       "Yield": 180212,
@@ -1335,10 +1314,10 @@
      }
     },
     "2026-08-01": {
-     "total": 1300819465.65,
-     "headline": 1300819465.65,
+     "total": 1319380101.65,
+     "headline": 1319380101.65,
      "by_category": {
-      "Dexs": 1226747296.65,
+      "Dexs": 1245307932.65,
       "Payments": 181944,
       "Yield": 26028,
       "Launchpad": 69083714,
@@ -1350,10 +1329,10 @@
      }
     },
     "2026-08-02": {
-     "total": 1342716803.96,
-     "headline": 1342716803.96,
+     "total": 1364864992.96,
+     "headline": 1364864992.96,
      "by_category": {
-      "Dexs": 1276753811.8,
+      "Dexs": 1298902000.8,
       "Bridge": 210,
       "Payments": 246303,
       "Launchpad": 62248558.16,
@@ -1366,10 +1345,10 @@
      }
     },
     "2026-08-03": {
-     "total": 1703047054.88,
-     "headline": 1703047054.88,
+     "total": 1756482483.88,
+     "headline": 1756482483.88,
      "by_category": {
-      "Dexs": 1616260025.64,
+      "Dexs": 1669695454.64,
       "Payments": 1074328,
       "Yield": 18414,
       "Launchpad": 77718227.24,
@@ -1381,10 +1360,10 @@
      }
     },
     "2026-08-04": {
-     "total": 1737462185.9299998,
-     "headline": 1737462185.9299998,
+     "total": 1783413450.9299998,
+     "headline": 1783413450.9299998,
      "by_category": {
-      "Dexs": 1648020447.59,
+      "Dexs": 1693971712.59,
       "Payments": 268025,
       "Yield": 469821,
       "Launchpad": 84191450.34,
@@ -1396,10 +1375,10 @@
      }
     },
     "2026-08-05": {
-     "total": 1628569944.91,
-     "headline": 1628569944.91,
+     "total": 1679131888.91,
+     "headline": 1679131888.91,
      "by_category": {
-      "Dexs": 1535712590.94,
+      "Dexs": 1586274534.94,
       "Payments": 72703,
       "Yield": 192621,
       "Launchpad": 81334130.97,
@@ -1411,10 +1390,10 @@
      }
     },
     "2026-08-06": {
-     "total": 1371081317.1799998,
-     "headline": 1371081317.1799998,
+     "total": 1413265760.1799998,
+     "headline": 1413265760.1799998,
      "by_category": {
-      "Dexs": 1289440636.87,
+      "Dexs": 1331625079.87,
       "Payments": 78722,
       "Yield": 67484,
       "Launchpad": 74479295.31,
@@ -1426,10 +1405,10 @@
      }
     },
     "2026-08-07": {
-     "total": 1354936977.02,
-     "headline": 1354936977.02,
+     "total": 1392769640.02,
+     "headline": 1392769640.02,
      "by_category": {
-      "Dexs": 1271889650.56,
+      "Dexs": 1309722313.56,
       "Bridge": 201,
       "Payments": 68748,
       "Yield": 135149,
@@ -1442,10 +1421,10 @@
      }
     },
     "2026-08-08": {
-     "total": 1485142236.54,
-     "headline": 1485142236.54,
+     "total": 1501745432.54,
+     "headline": 1501745432.54,
      "by_category": {
-      "Dexs": 1404667493.54,
+      "Dexs": 1421270689.54,
       "Bridge": 203,
       "Payments": 246080,
       "Yield": 71711,
@@ -1458,10 +1437,10 @@
      }
     },
     "2026-08-09": {
-     "total": 1338349854.98,
-     "headline": 1338349854.98,
+     "total": 1353540958.98,
+     "headline": 1353540958.98,
      "by_category": {
-      "Dexs": 1242477321.4699998,
+      "Dexs": 1257668425.4699998,
       "Payments": 58658,
       "Yield": 33904,
       "Launchpad": 90298441.51,
@@ -1473,10 +1452,10 @@
      }
     },
     "2026-08-10": {
-     "total": 1572945121.19,
-     "headline": 1572945121.19,
+     "total": 1595343022.19,
+     "headline": 1595343022.19,
      "by_category": {
-      "Dexs": 1473626169.67,
+      "Dexs": 1496024070.67,
       "Payments": 254358,
       "Yield": 26495,
       "Launchpad": 94826414.52,
@@ -1488,10 +1467,10 @@
      }
     },
     "2026-08-11": {
-     "total": 1640670775.28,
-     "headline": 1640670775.28,
+     "total": 1665876015.28,
+     "headline": 1665876015.28,
      "by_category": {
-      "Dexs": 1545050213.1399999,
+      "Dexs": 1570255453.1399999,
       "Bridge": 7442,
       "Payments": 70155,
       "Yield": 73229,
@@ -1504,10 +1483,10 @@
      }
     },
     "2026-08-12": {
-     "total": 1716075356.89,
-     "headline": 1716075356.89,
+     "total": 1752085985.89,
+     "headline": 1752085985.89,
      "by_category": {
-      "Dexs": 1609614527.3700001,
+      "Dexs": 1645625156.3700001,
       "Bridge": 9715,
       "Payments": 545418,
       "Yield": 157748,
@@ -1520,10 +1499,10 @@
      }
     },
     "2026-08-13": {
-     "total": 1933697996.16,
-     "headline": 1933697996.16,
+     "total": 1959389920.16,
+     "headline": 1959389920.16,
      "by_category": {
-      "Dexs": 1834628631,
+      "Dexs": 1860320555,
       "Bridge": 457,
       "Payments": 280366,
       "Launchpad": 93391394,
@@ -1536,10 +1515,10 @@
      }
     },
     "2026-08-14": {
-     "total": 1605361456.56,
-     "headline": 1605361456.56,
+     "total": 1635934413.56,
+     "headline": 1635934413.56,
      "by_category": {
-      "Dexs": 1505129568.56,
+      "Dexs": 1535702525.56,
       "Bridge": 268,
       "Payments": 110537,
       "Yield": 1191623,
@@ -1552,10 +1531,10 @@
      }
     },
     "2026-08-15": {
-     "total": 1169033832.04,
-     "headline": 1169033832.04,
+     "total": 1191269074.04,
+     "headline": 1191269074.04,
      "by_category": {
-      "Dexs": 1085751543.69,
+      "Dexs": 1107986785.69,
       "Payments": 81678,
       "Yield": 47696,
       "Launchpad": 80571113.35,
@@ -1567,10 +1546,10 @@
      }
     },
     "2026-08-16": {
-     "total": 1055491742.95,
-     "headline": 1055491742.95,
+     "total": 1080008049.95,
+     "headline": 1080008049.95,
      "by_category": {
-      "Dexs": 977050702.71,
+      "Dexs": 1001567009.71,
       "Bridge": 1125,
       "Payments": 48072,
       "Yield": 195312,
@@ -1589,10 +1568,10 @@
      "missing_est": 33516820.285714287
     },
     "2026-08-17": {
-     "total": 1474994437.3600001,
-     "headline": 1474994437.3600001,
+     "total": 1510989401.3600001,
+     "headline": 1510989401.3600001,
      "by_category": {
-      "Dexs": 1379225650.63,
+      "Dexs": 1415220614.63,
       "Payments": 563849,
       "Yield": 45051,
       "Launchpad": 90493769.73,
@@ -1604,10 +1583,10 @@
      }
     },
     "2026-08-18": {
-     "total": 1838194723.04,
-     "headline": 1838194723.04,
+     "total": 1883266013.04,
+     "headline": 1883266013.04,
      "by_category": {
-      "Dexs": 1737223899.04,
+      "Dexs": 1782295189.04,
       "Bridge": 513,
       "Payments": 163972,
       "Yield": 674003,
@@ -1620,10 +1599,10 @@
      }
     },
     "2026-08-19": {
-     "total": 3009837694.95,
-     "headline": 3009837694.95,
+     "total": 3056588165.95,
+     "headline": 3056588165.95,
      "by_category": {
-      "Dexs": 2878196047.1,
+      "Dexs": 2924946518.1,
       "Bridge": 3858,
       "Payments": 72923,
       "Yield": 113174,
@@ -1636,10 +1615,10 @@
      }
     },
     "2026-08-20": {
-     "total": 2806934829.33,
-     "headline": 2806934829.33,
+     "total": 2872958165.33,
+     "headline": 2872958165.33,
      "by_category": {
-      "Dexs": 2691861468,
+      "Dexs": 2757884804,
       "Bridge": 30,
       "Payments": 117923,
       "Yield": 95321,
@@ -1652,10 +1631,10 @@
      }
     },
     "2026-08-21": {
-     "total": 3600948276.22,
-     "headline": 3600948276.22,
+     "total": 3652051777.22,
+     "headline": 3652051777.22,
      "by_category": {
-      "Dexs": 3483909821.22,
+      "Dexs": 3535013322.22,
       "Bridge": 987,
       "Payments": 159298,
       "Yield": 143167,
@@ -1668,10 +1647,10 @@
      }
     },
     "2026-08-22": {
-     "total": 3732294477.7,
-     "headline": 3732294477.7,
+     "total": 3776963020.7,
+     "headline": 3776963020.7,
      "by_category": {
-      "Dexs": 3639208789.7,
+      "Dexs": 3683877332.7,
       "Bridge": 850,
       "Payments": 151766,
       "Yield": 2177599,
@@ -1690,10 +1669,10 @@
      "missing_est": 151431072.2857143
     },
     "2026-08-23": {
-     "total": 2938613605.25,
-     "headline": 2938613605.25,
+     "total": 2992963928.25,
+     "headline": 2992963928.25,
      "by_category": {
-      "Dexs": 2853499216.79,
+      "Dexs": 2907849539.79,
       "Bridge": 600,
       "Payments": 79244,
       "Yield": 162510,
@@ -1706,10 +1685,10 @@
      }
     },
     "2026-08-24": {
-     "total": 2996141158.64,
-     "headline": 2996141158.64,
+     "total": 3043921967.64,
+     "headline": 3043921967.64,
      "by_category": {
-      "Dexs": 2891033756.29,
+      "Dexs": 2938814565.29,
       "Payments": 522128,
       "Yield": 67914,
       "Launchpad": 100164645.35,
@@ -1721,10 +1700,10 @@
      }
     },
     "2026-08-25": {
-     "total": 2934986439.19,
-     "headline": 2934986439.19,
+     "total": 2983178860.19,
+     "headline": 2983178860.19,
      "by_category": {
-      "Dexs": 2811303754.13,
+      "Dexs": 2859496175.13,
       "Bridge": 154,
       "Payments": 199245,
       "Yield": 66218,
@@ -1737,10 +1716,10 @@
      }
     },
     "2026-08-26": {
-     "total": 2351677355,
-     "headline": 2351677355,
+     "total": 2413294236,
+     "headline": 2413294236,
      "by_category": {
-      "Dexs": 2277585518,
+      "Dexs": 2339202399,
       "Bridge": 11,
       "Payments": 175042,
       "Yield": 129628,
@@ -1753,10 +1732,10 @@
      }
     },
     "2026-08-27": {
-     "total": 3700129857.54,
-     "headline": 3700129857.54,
+     "total": 3762693440.54,
+     "headline": 3762693440.54,
      "by_category": {
-      "Dexs": 3540651346.54,
+      "Dexs": 3603214929.54,
       "Payments": 681493,
       "Yield": 714150,
       "Launchpad": 148795905,
@@ -1768,10 +1747,10 @@
      }
     },
     "2026-08-28": {
-     "total": 2590586442.2200003,
-     "headline": 2590586442.2200003,
+     "total": 2641507008.2200003,
+     "headline": 2641507008.2200003,
      "by_category": {
-      "Dexs": 2461131083.59,
+      "Dexs": 2512051649.59,
       "Bridge": 1438,
       "Payments": 113178,
       "Yield": 479495,
@@ -1784,10 +1763,10 @@
      }
     },
     "2026-08-29": {
-     "total": 1670710752.31,
-     "headline": 1670710752.31,
+     "total": 1705497234.31,
+     "headline": 1705497234.31,
      "by_category": {
-      "Dexs": 1545971955.31,
+      "Dexs": 1580758437.31,
       "Bridge": 3536,
       "Payments": 5223148,
       "Yield": 338042,
@@ -1801,10 +1780,10 @@
      }
     },
     "2026-08-30": {
-     "total": 1929632644.74,
-     "headline": 1929632644.74,
+     "total": 1978451265.74,
+     "headline": 1978451265.74,
      "by_category": {
-      "Dexs": 1828659260.01,
+      "Dexs": 1877477881.01,
       "Bridge": 584,
       "Payments": 945103,
       "Yield": 140104,
@@ -1818,10 +1797,10 @@
      }
     },
     "2026-08-31": {
-     "total": 2501465036.05,
-     "headline": 2501465036.05,
+     "total": 2568052237.05,
+     "headline": 2568052237.05,
      "by_category": {
-      "Dexs": 2385900739.05,
+      "Dexs": 2452487940.05,
       "Payments": 2343277,
       "Yield": 87604,
       "Launchpad": 108288558,
@@ -1834,10 +1813,10 @@
      }
     },
     "2026-09-01": {
-     "total": 2171560050.49,
-     "headline": 2171560050.49,
+     "total": 2231684341.49,
+     "headline": 2231684341.49,
      "by_category": {
-      "Dexs": 2099796967.28,
+      "Dexs": 2159921258.2799997,
       "Payments": 945828,
       "Yield": 1824465,
       "Launchpad": 65095368.21,
@@ -1855,10 +1834,10 @@
      "missing_est": 49185378
     },
     "2026-09-02": {
-     "total": 2289285889.32,
-     "headline": 2289285889.32,
+     "total": 2345533366.32,
+     "headline": 2345533366.32,
      "by_category": {
-      "Dexs": 2188694725.77,
+      "Dexs": 2244942202.77,
       "Payments": 665962,
       "Yield": 101523,
       "Launchpad": 95731862.55,
@@ -1871,10 +1850,10 @@
      }
     },
     "2026-09-03": {
-     "total": 2459540363.8,
-     "headline": 2459540363.8,
+     "total": 2540271271.8,
+     "headline": 2540271271.8,
      "by_category": {
-      "Dexs": 2364727045,
+      "Dexs": 2445457953,
       "Payments": 198226,
       "Yield": 112340,
       "Launchpad": 89095197.8,
@@ -1887,10 +1866,10 @@
      }
     },
     "2026-09-04": {
-     "total": 1881639252,
-     "headline": 1881639252,
+     "total": 1934598320,
+     "headline": 1934598320,
      "by_category": {
-      "Dexs": 1808225567,
+      "Dexs": 1861184635,
       "Payments": 61904,
       "Yield": 422982,
       "Launchpad": 69128758,
@@ -1902,10 +1881,10 @@
      }
     },
     "2026-09-05": {
-     "total": 1864752146.81,
-     "headline": 1864752146.81,
+     "total": 1914884685.81,
+     "headline": 1914884685.81,
      "by_category": {
-      "Dexs": 1786680158.68,
+      "Dexs": 1836812697.68,
       "Payments": 74111,
       "Yield": 37870,
       "Launchpad": 73213002,
@@ -1918,10 +1897,10 @@
      }
     },
     "2026-09-06": {
-     "total": 2904503252.4400005,
-     "headline": 2904503252.4400005,
+     "total": 2973439567.4400005,
+     "headline": 2973439567.4400005,
      "by_category": {
-      "Dexs": 2809612216,
+      "Dexs": 2878548531,
       "Payments": 210665,
       "Yield": 2120949,
       "Launchpad": 88703166.01,
@@ -1934,10 +1913,10 @@
      }
     },
     "2026-09-07": {
-     "total": 2720639104.66,
-     "headline": 2720639104.66,
+     "total": 2787720639.66,
+     "headline": 2787720639.66,
      "by_category": {
-      "Dexs": 2586478731.66,
+      "Dexs": 2653560266.66,
       "Payments": 245687,
       "Yield": 84220,
       "Launchpad": 125934635,
@@ -1949,10 +1928,10 @@
      }
     },
     "2026-09-08": {
-     "total": 2710734376.34,
-     "headline": 2710734376.34,
+     "total": 2783900569.34,
+     "headline": 2783900569.34,
      "by_category": {
-      "Dexs": 2580224618,
+      "Dexs": 2653390811,
       "Payments": 185775,
       "Yield": 299638,
       "Launchpad": 124896154.34,
@@ -1965,10 +1944,10 @@
      }
     },
     "2026-09-09": {
-     "total": 3000309895.63,
-     "headline": 3000309895.63,
+     "total": 3076287791.63,
+     "headline": 3076287791.63,
      "by_category": {
-      "Dexs": 2873987618.63,
+      "Dexs": 2949965514.63,
       "Payments": 457524,
       "Yield": 127746,
       "Launchpad": 120823662,
@@ -1981,10 +1960,10 @@
      }
     },
     "2026-09-10": {
-     "total": 2921890110.0099998,
-     "headline": 2921890110.0099998,
+     "total": 3000992733.0099998,
+     "headline": 3000992733.0099998,
      "by_category": {
-      "Dexs": 2803210229.98,
+      "Dexs": 2882312852.98,
       "Payments": 169158,
       "Launchpad": 110763722.03,
       "Yield": 25867,
@@ -1997,10 +1976,10 @@
      }
     },
     "2026-09-11": {
-     "total": 3183599712.4300003,
-     "headline": 3183599712.4300003,
+     "total": 3278655502.4300003,
+     "headline": 3278655502.4300003,
      "by_category": {
-      "Dexs": 3072089891.01,
+      "Dexs": 3167145681.01,
       "Payments": 113883,
       "Yield": 132874,
       "Launchpad": 103636571.42,
@@ -2029,50 +2008,45 @@
      }
     },
     "2026-09-13": {
-     "total": 1681819334.08,
-     "headline": 1681819334.08,
+     "total": 1790994711.97,
+     "headline": 1790994711.97,
      "by_category": {
-      "Dexs": 1596592566.08,
-      "Payments": 145109,
+      "Dexs": 1700183911,
+      "Payments": 159565,
+      "Launchpad": 81691143.97,
       "Yield": 35060,
-      "Physical TCG": 6786887,
-      "Launchpad": 78189999,
-      "AI Agents": 35,
-      "RWA": 17216,
-      "Crypto Card Issuer": 14388,
-      "Lending": 37357,
-      "Prediction Market": 717
+      "Physical TCG": 8026699,
+      "RWA": 845528,
+      "Crypto Card Issuer": 20063,
+      "Lending": 32581,
+      "Prediction Market": 161
+     }
+    },
+    "2026-09-14": {
+     "total": 2530223236.85,
+     "headline": 2530223236.85,
+     "by_category": {
+      "Dexs": 2406689620.91,
+      "Payments": 18621151,
+      "Yield": 96238,
+      "Launchpad": 92686616.94,
+      "AI Agents": 92,
+      "Physical TCG": 5562385,
+      "RWA": 6516832,
+      "Crypto Card Issuer": 13172,
+      "Lending": 37006,
+      "Prediction Market": 123
      }
     }
    },
-   "change_30dover30d": 59.23,
-   "total30d": 73759133768.09999,
-   "total24h": 1743644853.08
+   "change_30dover30d": 62.36,
+   "total30d": 76855216362.31999,
+   "total24h": 2530223236.85
   },
   "base": {
    "slug": "Base",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 846359036.61,
-     "headline": 846359036.61,
-     "by_category": {
-      "Dexs": 840705734.02,
-      "Yield": 11523,
-      "Prediction Market": 1248218.83,
-      "Payments": 1875668,
-      "DEX Aggregator": 326366,
-      "SoFi": 751.76,
-      "Algo-Stables": 419,
-      "AI Agents": 40037,
-      "Launchpad": 181447,
-      "Physical TCG": 193033,
-      "Crypto Card Issuer": 1772834,
-      "Gaming": 1743,
-      "NFT Marketplace": 239,
-      "Portfolio Tracker": 1023
-     }
-    },
     "2026-07-16": {
      "total": 791900416.41,
      "headline": 791900416.41,
@@ -3211,53 +3185,55 @@
      "missing_est": 16421872
     },
     "2026-09-13": {
-     "total": 543204533.3399999,
-     "headline": 543204533.3399999,
+     "total": 621896240.9999999,
+     "headline": 621896240.9999999,
      "by_category": {
-      "Dexs": 540271932.47,
-      "Yield": 34080,
-      "Prediction Market": 610827.05,
-      "Payments": 205041,
+      "Dexs": 618864147.3299999,
+      "Yield": 36754,
+      "Prediction Market": 640773.05,
+      "Payments": 170345,
+      "DEX Aggregator": 247628,
       "SoFi": 24.59,
-      "RWA": 1871,
-      "Algo-Stables": 140,
-      "Launchpad": 13208.03,
-      "Physical TCG": 65410,
-      "Crypto Card Issuer": 1848810,
-      "Gaming": 807,
+      "RWA": 1366,
+      "Algo-Stables": 166,
+      "AI Agents": 2121,
+      "Launchpad": 13376.03,
+      "Physical TCG": 65952,
+      "Crypto Card Issuer": 1852235,
+      "Gaming": 899,
       "NFT Marketplace": 434,
-      "DEX Aggregator": 148041,
-      "AI Agents": 3852,
-      "Portfolio Tracker": 55.2
+      "Portfolio Tracker": 20
+     }
+    },
+    "2026-09-14": {
+     "total": 947585767.64,
+     "headline": 947585767.64,
+     "by_category": {
+      "Dexs": 944228692.47,
+      "Yield": 2439.16,
+      "Prediction Market": 715908,
+      "Payments": 323130,
+      "DEX Aggregator": 393463,
+      "SoFi": 562,
+      "RWA": 102801,
+      "Algo-Stables": 509,
+      "AI Agents": 9712,
+      "Launchpad": 18598.01,
+      "Physical TCG": 369111,
+      "Crypto Card Issuer": 1419141,
+      "Gaming": 1215,
+      "NFT Marketplace": 486
      }
     }
    },
-   "change_30dover30d": 45.45,
-   "total30d": 27486379166.089996,
-   "total24h": 489404196.1
+   "change_30dover30d": 56.48,
+   "total30d": 28257560410.629993,
+   "total24h": 947585767.64
   },
   "bnb": {
    "slug": "BSC",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 698367078.4599999,
-     "headline": 698367078.4599999,
-     "by_category": {
-      "Dexs": 639528969.18,
-      "Yield": 236321,
-      "Payments": 110805.04,
-      "DEX Aggregator": 169463,
-      "Launchpad": 3183940.83,
-      "Prediction Market": 41923546,
-      "Bridge": 239833,
-      "RWA": 12833446,
-      "Luck Games": 865,
-      "NFT Marketplace": 6.41,
-      "Crypto Card Issuer": 4978,
-      "Physical TCG": 134905
-     }
-    },
     "2026-07-16": {
      "total": 679831194.13,
      "headline": 679831194.13,
@@ -4270,44 +4246,48 @@
      }
     },
     "2026-09-13": {
-     "total": 650173428.81,
-     "headline": 650173428.81,
+     "total": 710707025.01,
+     "headline": 710707025.01,
      "by_category": {
-      "Dexs": 615614647.69,
+      "Dexs": 678667459.89,
       "Yield": 22204,
-      "Payments": 337305.12,
-      "DEX Aggregator": 3158417,
-      "Launchpad": 11239051,
-      "Prediction Market": 18654189,
-      "Bridge": 521936,
-      "Luck Games": 8490,
-      "Crypto Card Issuer": 124024,
-      "Physical TCG": 166998,
-      "RWA": 326167
+      "Payments": 337784.12,
+      "DEX Aggregator": 2127465,
+      "Launchpad": 9848215,
+      "Prediction Market": 17989115,
+      "Bridge": 495509,
+      "RWA": 911136,
+      "Luck Games": 13100,
+      "Crypto Card Issuer": 124559,
+      "Physical TCG": 170478
+     }
+    },
+    "2026-09-14": {
+     "total": 1106364843.43,
+     "headline": 1106364843.43,
+     "by_category": {
+      "Dexs": 1037635016.3100002,
+      "Yield": 1529,
+      "Payments": 5817008.12,
+      "DEX Aggregator": 2703696,
+      "Launchpad": 22746170,
+      "Prediction Market": 15933225,
+      "Bridge": 909112,
+      "RWA": 19931414,
+      "Luck Games": 600,
+      "Crypto Card Issuer": 512879,
+      "Physical TCG": 174194
      }
     }
    },
-   "change_30dover30d": 32.56,
-   "total30d": 37241376532.27997,
-   "total24h": 789842399.6399999
+   "change_30dover30d": 31.88,
+   "total30d": 37408679666.78997,
+   "total24h": 1106364843.43
   },
   "arbitrum": {
    "slug": "Arbitrum",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 313089316.53999996,
-     "headline": 313089316.53999996,
-     "by_category": {
-      "Dexs": 312018964.53999996,
-      "Yield": 303991,
-      "Prediction Market": 75990,
-      "Payments": 9354,
-      "Lending": 4534,
-      "Crypto Card Issuer": 676432,
-      "Launchpad": 51
-     }
-    },
     "2026-07-16": {
      "total": 150820008.48,
      "headline": 150820008.48,
@@ -5078,24 +5058,38 @@
      }
     },
     "2026-09-13": {
-     "total": 80932885.89,
-     "headline": 80932885.89,
+     "total": 96308430.07000001,
+     "headline": 96308430.07000001,
      "by_category": {
-      "Dexs": 79369608.83999999,
-      "Yield": 966704,
-      "Prediction Market": 272973,
-      "Payments": 7212.01,
-      "RWA": 3747,
+      "Dexs": 94796385.56,
+      "Yield": 901844,
+      "Prediction Market": 266026,
+      "Payments": 7291.44,
+      "DEX Aggregator": 33553,
+      "RWA": 4182,
       "Lending": 0.06,
-      "Crypto Card Issuer": 310648,
-      "Portfolio Tracker": 1.98,
-      "DEX Aggregator": 1991
+      "Crypto Card Issuer": 299147,
+      "Portfolio Tracker": 1.01
+     }
+    },
+    "2026-09-14": {
+     "total": 225340022.03,
+     "headline": 225340022.03,
+     "by_category": {
+      "Dexs": 224164912.57,
+      "Yield": 587322,
+      "Prediction Market": 69768,
+      "Payments": 41523.46,
+      "DEX Aggregator": 7153,
+      "RWA": 295179,
+      "Lending": 2607,
+      "Crypto Card Issuer": 171557
      }
     }
    },
-   "change_30dover30d": 37.53,
-   "total30d": 5889123021.960005,
-   "total24h": 68621422.26
+   "change_30dover30d": 54.64,
+   "total30d": 6090452172.6200075,
+   "total24h": 225340022.03
   },
   "hyperevm": {
    "slug": "Hyperliquid L1",
@@ -5108,20 +5102,6 @@
     ]
    },
    "days": {
-    "2026-07-15": {
-     "total": 97524365.72,
-     "headline": 251348555.71999997,
-     "by_category": {
-      "Dexs": 209787006.71999997,
-      "Yield": 194100,
-      "Payments": 7609,
-      "Bridge": 41358501,
-      "Launchpad": 1339
-     },
-     "extra": {
-      "hypercore_spot_orderbook": 112262641
-     }
-    },
     "2026-07-16": {
      "total": 105306140.25999999,
      "headline": 265295948.26,
@@ -5951,42 +5931,43 @@
      }
     },
     "2026-09-13": {
-     "total": 50258531.32,
-     "headline": 179548231.32,
+     "total": 58758268.70999999,
+     "headline": 174688970.71,
      "by_category": {
-      "Yield": 118983,
-      "Dexs": 151548737.32,
-      "Launchpad": 28757,
-      "Luck Games": 55,
-      "Payments": 246,
-      "Bridge": 27851453
+      "Dexs": 143499658.70999998,
+      "Yield": 103280,
+      "Bridge": 31056594,
+      "Launchpad": 29413,
+      "Luck Games": 25
      },
      "extra": {
-      "hypercore_spot_orderbook": 101290206
+      "hypercore_spot_orderbook": 84741390
+     }
+    },
+    "2026-09-14": {
+     "total": 122041286.19,
+     "headline": 338894129.19,
+     "by_category": {
+      "Dexs": 279088652.19,
+      "Yield": 293150,
+      "Payments": 162,
+      "Bridge": 59501546,
+      "Launchpad": 10596,
+      "Luck Games": 23
+     },
+     "extra": {
+      "hypercore_spot_orderbook": 157047366
      }
     }
    },
-   "change_30dover30d": 125.72,
-   "total30d": 11603551737.879995,
-   "total24h": 179542238.07999998
+   "change_30dover30d": 146.63,
+   "total30d": 11911440985.359995,
+   "total24h": 338894129.19
   },
   "robinhood": {
    "slug": "Robinhood Chain",
    "filter": null,
    "days": {
-    "2026-07-15": {
-     "total": 804582838.29,
-     "headline": 804582838.29,
-     "by_category": {
-      "Dexs": 788821198.51,
-      "DEX Aggregator": 488840,
-      "Launchpad": 7144863,
-      "AI Agents": 7308669,
-      "Prediction Market": 4697,
-      "Gamified Mining": 806176,
-      "SoFi": 8394.78
-     }
-    },
     "2026-07-16": {
      "total": 609734903.14,
      "headline": 609734903.14,
@@ -6845,24 +6826,39 @@
      }
     },
     "2026-09-13": {
-     "total": 1317618717.04,
-     "headline": 1317618717.04,
+     "total": 1516200073.53,
+     "headline": 1516200073.53,
      "by_category": {
-      "Yield": 44069,
-      "Dexs": 1197398127.02,
-      "Payments": 8769,
-      "Launchpad": 115429780.68,
-      "Prediction Market": 4261,
-      "Gamified Mining": 640228,
-      "SoFi": 367.34000000000003,
-      "DEX Aggregator": 4039182,
-      "AI Agents": 53933
+      "Dexs": 1395609281.55,
+      "Yield": 46966,
+      "DEX Aggregator": 6250717,
+      "Payments": 3784,
+      "Launchpad": 113522132.64,
+      "AI Agents": 84277,
+      "Prediction Market": 2329,
+      "Gamified Mining": 680210,
+      "SoFi": 376.34000000000003
+     }
+    },
+    "2026-09-14": {
+     "total": 2004075714.7499998,
+     "headline": 2004075714.7499998,
+     "by_category": {
+      "Dexs": 1883636841.54,
+      "Yield": 96037,
+      "DEX Aggregator": 11048623,
+      "Payments": 14941,
+      "Launchpad": 108615227.8,
+      "AI Agents": 255285,
+      "Prediction Market": 1640,
+      "Gamified Mining": 407088,
+      "SoFi": 31.41
      }
     }
    },
-   "change_30dover30d": 126.31,
-   "total30d": 33886053013.450016,
-   "total24h": 1504006695.51
+   "change_30dover30d": 155.33,
+   "total30d": 36622077368.460014,
+   "total24h": 2004075714.7499998
   }
  }
 }
