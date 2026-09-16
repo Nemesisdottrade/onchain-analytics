@@ -1,256 +1,254 @@
 pool,name,dex,base_id,quote_id,subject_id,subject_cap,bucket,reason,h24,vol_30d
-0x2b21c65d9a7dc6926ee330a1c6e5a8037fd81774f3dc066536f800128e39f634,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,164269589,191473860
-0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640,"WETH / USDC 0.05%",uniswap_v3,weth,usd-coin,,,above,both_quote,94980121,2561845741
-0x3b1b1f2e775a6db1664f8e7d59ad568605ea2406312c11aef03146c0cf89d5b9,"USDT / USDS",uniswap-v4-ethereum,tether,usds,,,above,both_quote,93336213,2975953193
-0x667701e51b4d1ca244f17c78f7ab8744b4c99f9b,"USDC / USDT",fluid-ethereum,usd-coin,tether,,,above,both_quote,74839054,1845205573
-0x2da3fa618ee5c9842f277cda8acf26992610b9cc,"MAHC / WETH",uniswap_v2,,weth,MAHC,,unknown,gt_fdv_only_above_threshold,70156896,0
-0x4e68ccd3e89f51c3074ca5072bbac773960dfa36,"WETH / USDT 0.3%",uniswap_v3,weth,tether,,,above,both_quote,67373803,1374516405
-0xe63e32b2ae40601662f760d6bf5d771057324fbd97784fe1d3717069f7b75d45,"PYUSD / USDS",uniswap-v4-ethereum,paypal-usd,usds,,,above,both_quote,64139473,1271877198
-0x0fb0e40cec3bb23e13abc585958a93c796fbea56955e19a23727a716a0423239,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,51797592,2019888675
-0xe0554a476a092703abdb3ef35c80e0d76d32939f,"USDC / WETH 0.01%",uniswap_v3,usd-coin,weth,,,above,both_quote,47137726,1391269322
-0xcb62c2d6894736d4216a41f5812bb9771de056d5,"7AΩ∞ / WETH",uniswap_v2,,weth,7AΩ∞,,unknown,gt_fdv_only_above_threshold,44943269,874940343
-0x28cd762e49726a4f0725a2846c85d19462b3e563,"BULL / WETH",uniswap_v2,,weth,BULL,,unknown,gt_fdv_only_above_threshold,39553304,1221127660
-0x3416cf6c708da44db2624d63ea0aaef7113527c6,"USDC / USDT 0.01%",uniswap_v3,usd-coin,tether,,,above,both_quote,35808825,388692520
-0x395f91b34aa34a477ce3bc6505639a821b286a62b1a164fc1887fa3a5ef713a5,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,29752364,785564569
-0x4585fe77225b41b697c938b018e2ac67ac5a20c0,"WBTC / WETH 0.05%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,28858532,511055329
-0x4f493b7de8aac7d55f71853688b1f7c8f0243c85,"USDC / USDT",curve,usd-coin,tether,,,above,both_quote,27037211,569934292
-0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7,"DAI / USDC / USDT",curve,dai,usd-coin,,,above,both_quote,14689259,5742258
-0x3c0441b42195f4ad6aa9a0978e06096ea616cda7,"cbBTC / WBTC",fluid-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,24236975,220675639
-0xc7bbec68d12a0d1830360f8ec58fa599ba1b0e9b,"WETH / USDT 0.01%",uniswap_v3,weth,tether,,,above,both_quote,21952131,516484651
-0x56534741cd8b152df6d48adf7ac51f75169a83b2,"WBTC / USDT 0.05%",uniswap_v3,wrapped-bitcoin,tether,,,above,both_quote,20664903,620751796
-0x50b00c1a5a8e582ec808e97e71598cd135206a9f9c548eab2ed73659e7ee5fa8,"ETH / USDT 0.3%",uniswap-v4-ethereum,ethereum,tether,,,above,both_quote,18966221,147330321
-0x8aa4e11cbdf30eedc92100f4c8a31ff748e201d44712cc8c90d189edaa8e4e47,"USDC / USDT 0.001%",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,18718098,555832055
-0x9035721b23481db3888fd201b9c2b26dbc3af60258bca65e669f2ed98dc8eb4f,"RLUSD / USDS",uniswap-v4-ethereum,ripple-usd,usds,,,above,both_quote,17761081,866445990
-0x0b1a513ee24972daef112bc777a5610d4325c9e7,"wstETH / ETH",fluid-ethereum,wrapped-steth,ethereum,,,above,both_quote,15936838,177339722
-0xbafead7c60ea473758ed6c6021505e8bbd7e8e5d,"AUSD / USDC 0.01%",uniswap_v3,agora-dollar,usd-coin,,,above,both_quote,13352152,234423654
-0xeda62d2906d0edf26d40c793d581609552a44a87f618a98ff76ebe8dde4b7edb,"USDG / USDC",uniswap-v4-ethereum,global-dollar,usd-coin,,,above,both_quote,12978339,16824035
-0x4dece678ceceb27446b35c672dc7d61f30bad69e,"crvUSD / USDC",curve,crvusd,usd-coin,,,above,both_quote,11957343,169196164
-0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8,"USDC / WETH 0.3%",uniswap_v3,usd-coin,weth,,,above,both_quote,11840095,202360670
-0x11b815efb8f581194ae79006d24e0d814b7697f6,"WETH / USDT 0.05%",uniswap_v3,weth,tether,,,above,both_quote,11123266,376423380
-0x72331fcb696b0151904c03584b66dc8365bc63f8a144d89a773384e3a579ca73,"ETH / USDT 0.05%",uniswap-v4-ethereum,ethereum,tether,,,above,both_quote,11098929,116778090
-0xdce6394339af00981949f5f3baf27e3610c76326a700af57e4b3e3ae4977f78d,"ETH / USDC 0.3%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,10835332,170195531
-0x383e6b4437b59fff47b619cba855ca29342a8559,"PYUSD / USDC",curve,paypal-usd,usd-coin,,,above,both_quote,10478263,155210870
-0xe8f7c89c5efa061e340f2d2f206ec78fd8f7e124,"cbBTC / WBTC 0.01%",uniswap_v3,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,10315284,85616232
-0xdc24316b9ae028f1497c275eb9192a3ea0f67022,"stETH / ETH",curve,staked-ether,ethereum,,,above,both_quote,10027745,102397894
-0x19e129c09646e22a87fe24c243a15ab893f97859,"CRD / USDT 0.01%",uniswap_v3,,tether,CRD,,unknown,gt_fdv_only_above_threshold,9952072,27542424
-0x5b03cccab7ba3010fa5cad23746cbf0794938e96,"USDT / USDe",curve,tether,ethena-usde,,,above,both_quote,9071001,154905016
-0xbf8fc52a30d6500e86c681f082d3524e35fb4ceb21ded8c13c6ce3968690adc6,"cbBTC / WBTC 0.005%",uniswap-v4-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,9033525,93955909
-0xe500210c7ea6bfd9f69dce044b09ef384ec2b34832f132baec3b418208e3a657,"USDC / WETH",uniswap-v4-ethereum,usd-coin,weth,,,above,both_quote,8482380,213121909
-0x5018be882dcce5e3f2f3b0913ae2096b9b3fb61f,"USDC / fxUSD",curve,usd-coin,f-x-protocol-fxusd,f-x-protocol-fxusd,79670186,below,single_subject:cg_mcap,8216517,67111141
-0x21c67e77068de97969ba93d4aab21826d33ca12bb9f565d8496e8fda8a82ca27,"ETH / USDC 0.05%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,8082945,138265756
-0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801,"UNI / WETH 0.3%",uniswap_v3,uniswap,weth,uniswap,4051927524,above,single_subject:cg_mcap,7637149,120774435
-0xe0e0e08a6a4b9dc7bd67bcb7aade5cf48157d444-0xca5b3ef9770bb95940bd4e0bff5ead70a5973d904a8b370b52147820e61a2ff6,"USDC / USDT",ekubo-v2-ethereum,usd-coin,tether,,,above,both_quote,7366874,200142394
-0x90078845bceb849b171873cfbc92db8540e9c803ff57d9d21b1215ec158e79b3,"USDT / WETH",uniswap-v4-ethereum,tether,weth,,,above,both_quote,7366508,208056650
-0x390f3595bca2df7d23783dfd126427cceb997bf4,"crvUSD / USDT",curve,crvusd,tether,,,above,both_quote,6994341,193621092
-0xe41be7b340f7c2eda4da1e99b42ee1b228b526b7,"apyUSD / apxUSD",curve,apyusd,apxusd,apyusd,179508078,above,single_subject:cg_mcap,6804054,10803634
-0x836951eb21f3df98273517b7249dceff270d34bf,"USDC / ETH",fluid-ethereum,usd-coin,ethereum,,,above,both_quote,6653196,214824420
-0xb2b5618903d74bbac9e9049a035c3827afc4487cde3b994a1568b050f4c8e2e4,"ETH / LINK 0.3%",uniswap-v4-ethereum,ethereum,chainlink,chainlink,8452946739,above,single_subject:cg_mcap,6232122,163645864
-0xad1a21f61d653c6101b92c335f61140459c81c79,"MOTO / WETH",uniswap_v2,,weth,MOTO,35385349,below,single_subject:gt_fdv,6028081,5546091
-0x56fc29b86900aa0afa6e20b020429bffba1105cfb45070492c67529b46eb48c1,"USDe / USDC 0.003%",uniswap-v4-ethereum,ethena-usde,usd-coin,,,above,both_quote,5828656,405251206
-0x3ea74c37fbb79dfcd6d760870f0f4e00cf4c3960b3259d0d43f211c0547394c1,"USDC / WBTC 0.05%",uniswap-v4-ethereum,usd-coin,wrapped-bitcoin,,,above,both_quote,5706185,52503306
-0x656341ef90b622c6634e0573772ffb7f3669b9f3,"crvUSD / WETH",curve,crvusd,weth,,,above,both_quote,5556340,65154655
-0x2f92b371aef58f0abe9c10c06423de083405991f2839638914a1031e91d9a723,"cbBTC / WBTC 0.01%",uniswap-v4-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,5534924,60788166
-0xb96cee75211700bc148b95b1c907d726791f4457,"reUSD / USDT",fluid-ethereum,re-protocol-reusd,tether,,,above,both_quote,5446544,131361791
-0x025a13752ec1fb6c0e441e5d7b1678bb5f9ca62f,"USDG / USDC 0.005%",maverick-v2-eth,global-dollar,usd-coin,,,above,both_quote,5376528,270594067
-0xde632c3a214d5f14c1d8ddf0b92f8bcd188fee45,"GHO / USDC",fluid-ethereum,gho,usd-coin,,,above,both_quote,5362337,70505074
-0x64869c8d4b7c5a6a2f102c9fceea7f7de846b672,"kBTC / WBTC 0.01%",uniswap_v3,kraken-wrapped-btc,wrapped-bitcoin,kraken-wrapped-btc,632748487,above,single_subject:cg_mcap,5248344,48144827
-0x8626be23f128f5985a5d76359b10bf3db84a7306,"fwWETH / fwUNI",ring-exchange-ethereum,,,fwUNI,84354459,below,min_cap_of_two:gt_fdv,5099704,107325513
-0xc061caa073f3d95f80f8e5428d32d2d76f5e1622,"USDG / USDC",curve,global-dollar,usd-coin,,,above,both_quote,4723997,284362103
-0x21e27a5e5513d6e65c4f830167390997aa84843a,"ETH / stETH",curve,ethereum,staked-ether,,,above,both_quote,4624255,68265517
-0x109830a1aaad605bbf02a9dfa7b0b92ec2fb7daa,"wstETH / WETH 0.01%",uniswap_v3,wrapped-steth,weth,,,above,both_quote,4226065,85778173
-0xb2b92b56988a4edbe255989792c6ea239b25eaf66b42093145cbf8f630db3a17,"EUROC / USDC 0.03%",uniswap-v4-ethereum,euro-coin,usd-coin,,,above,both_quote,4036362,61964532
-0x48da0965ab2d2cbf1c17c09cfb5cbe67ad5b1406,"DAI / USDT 0.01%",uniswap_v3,dai,tether,,,above,both_quote,3892148,60121557
-0x9f2d9491277a9f2551c1f7533c1789aa6023bba0c5e9397e8a019cac5c10fe7f,"apxUSD / USDC 0.05%",uniswap-v4-ethereum,apxusd,usd-coin,,,above,both_quote,3865242,26115801
-0x72daf39b278fab80f18ad2adf73cc8b1ae63de1e508d36aa033285fff506f169,"USDC / mUSD",uniswap-v4-ethereum,usd-coin,metamask-usd,metamask-usd,27491167,below,single_subject:cg_mcap,3662417,69623364
-0x1445f32d1a74872ba41f3d8cf4022e9996120b31,"USDC / WETH 0.01%",pancakeswap-v3-ethereum,usd-coin,weth,,,above,both_quote,3618032,107809954
-0x04571c32a4e1c5f39bc3a238cb95b215058c432c,"USDT / USDC",dodo-pmm-ethereum,tether,usd-coin,,,above,both_quote,3581403,200285264
-0x6f63deedc9870d6c16fc644c6654748352cdc87c,"apxUSD / USDC",curve,apxusd,usd-coin,,,above,both_quote,3476696,11525230
-0x599326d9cd5e1ea0893305c87d5ec3199e7f05e94d72159f35dea381479a615e,"ETH / WBTC 0.05%",uniswap-v4-ethereum,ethereum,wrapped-bitcoin,,,above,both_quote,3292618,117109779
-0x862cb4e988fb66e72f128d1183829f8c05b6c6a0,"crvUSD / cbBTC",curve,crvusd,coinbase-wrapped-btc,,,above,both_quote,3128539,55211662
-0x9db9e0e53058c89e5b94e29621a205198648425b,"WBTC / USDT 0.3%",uniswap_v3,wrapped-bitcoin,tether,,,above,both_quote,3074975,73733985
-0xe521ba88837b2726e5343cca91ada6f19f356c45,"USDx / USDT",curve,axis-usd,tether,axis-usd,9984165,below,single_subject:cg_mcap,2879187,17674391
-0x00000000000014aa86c5d3c41765bb24e11bd701-0x2412d98ba8200050ba63355f9473f7f3f31c273f1b2ed56a013ad49b90b9260d,"USDG / USDC 0.007%",ekubo-v3-ethereum,global-dollar,usd-coin,,,above,both_quote,2805833,342391920
-0x2287a9620adcbf6250dc71be9ee9b2d3a1ec85a464fc6f5c06669e8d07b61bba,"USDT / ETH 0.01%",uniswap-v4-ethereum,tether,ethereum,,,above,both_quote,2781417,88241692
-0xe6ff8b9a37b0fab776134636d9981aa778c4e718,"WBTC / WETH 0.01%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,2695277,40650097
-0xc2921134073151490193ac7369313c8e0b08e1e7,"USDtb / USDC",curve,usdtb,usd-coin,,,above,both_quote,2546470,27538435
-0x00000000000014aa86c5d3c41765bb24e11bd701-0x583531a847f49c31bb86c4ae1b650dc7cb21174b18e5b8ed13108a299c3adb35,"USDe / USDC 0.003%",ekubo-v3-ethereum,ethena-usde,usd-coin,,,above,both_quote,2538425,231451210
-0xdb4c4d91f12ce76f5c9ac0eae193cf3b4d6684cd5f09bf35d03dd9ae6d8a43b1,"CTM / ETH",uniswap-v4-ethereum,c8ntinuum,ethereum,c8ntinuum,2100767613,above,single_subject:cg_fdv,2528707,69443014
-0x8366b1dde4de12c8806985fbb599d408d92d01a6faf2e478cc6bb76189cc00f1,"LIT / USDC 0.3%",uniswap-v4-ethereum,lighter,usd-coin,lighter,1032470125,above,single_subject:cg_mcap,2482082,18735309
-0x313698667d7fdd6789a9bc70821309ff891e729a,"crvUSD / WBTC",curve,crvusd,wrapped-bitcoin,,,above,both_quote,2442658,21982429
-0x00000000000014aa86c5d3c41765bb24e11bd701-0x6fde3244f6fa747ae318aba6e982a4281febad4d22e3b134aa299a83a951895d,"USDC / USDT",ekubo-v3-ethereum,usd-coin,tether,,,above,both_quote,2371235,202362790
-0x147d15e009a63ebed5196ea029679329204f98fd,"fwWETH / fwUSDT",ring-exchange-ethereum,,,fwWETH,,unknown,gt_fdv_only_above_threshold,2318019,46373944
-0x99ac8ca7087fa4a2a1fb6357269965a2014abc35,"WBTC / USDC 0.3%",uniswap_v3,wrapped-bitcoin,usd-coin,,,above,both_quote,2315221,74021855
-0xdb74dfdd3bb46be8ce6c33dc9d82777bcfc3ded5,"weETH / WETH",curve,wrapped-eeth,weth,,,above,both_quote,2269170,41796182
-0x053f6a47ccba79e7d5d623173ed6dd5a31cf19c28bae0fb8276f4506295f90da,"UNI / ETH 0.3%",uniswap-v4-ethereum,uniswap,ethereum,uniswap,4051927524,above,single_subject:cg_mcap,2216797,67266794
-0xb20351bcf606dcc3525d2ed36760a86a5dec7423b77d41125bd4a416ba93448b,"sUSDe / USDT 0.008%",uniswap-v4-ethereum,ethena-staked-usde,tether,ethena-staked-usde,1311882271,above,single_subject:cg_mcap,2205281,98817011
-0x00b06862de00a7e67a2d6d3fbeea592a32460de0,"fwWBTC / fwWETH",ring-exchange-ethereum,,,fwWBTC,,unknown,gt_fdv_only_above_threshold,2172501,36965698
-0x13e12bb0e6a2f1a3d6901a59a9d585e89a6243e1,"frxUSD / crvUSD",curve,frax-usd,crvusd,,,above,both_quote,2046698,51161288
-0xfaa318479b7755b2dbfdd34dc306cb28b420ad12,"UNI / WETH 0.05%",uniswap_v3,uniswap,weth,uniswap,4051927524,above,single_subject:cg_mcap,2019763,30038545
-0x0b599ebf4e05af48b56d38e2dde520570c366460,"LBTC / WBTC 0.01%",uniswap_v3,lombard-staked-btc,wrapped-bitcoin,lombard-staked-btc,790187646,above,single_subject:cg_mcap,1959321,20562885
-0x00b9edc1583bf6ef09ff3a09f6c23ecb57fd7d0bb75625717ec81eed181e22d7,"ETH / USDC 0.01%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,1918863,63049074
-0x90512722b19945c7ec2746e34f45c301a5dadc830bb669056fa5fd5ad943e06e,"LBTC / cbBTC 0.02%",uniswap-v4-ethereum,lombard-staked-btc,coinbase-wrapped-btc,lombard-staked-btc,790187646,above,single_subject:cg_mcap,1839563,13068153
-0x75624c04a031134ec1b56ecc7131bd3ce11bcd663d16ba57ad1d0f40a91c35c2,"GULD / ELEVATE 0.3%",uniswap-v4-ethereum,guld,,ELEVATE,,unknown,gt_fdv_only_above_threshold,1746805,7924592
-0x73a38006d23517a1d383c88929b2014f8835b38b,"tBTC / WBTC 0.01%",uniswap_v3,tbtc,wrapped-bitcoin,,,above,both_quote,1715758,55409729
-0x8b39be478d19f3dfc2bd997796ba46662d0fce435d697fcb294f1ec0087a2f4b,"ELEVATE / GIVE 0.3%",uniswap-v4-ethereum,,,GIVE,50181922,below,min_cap_of_two:gt_fdv,1678780,8829324
-0x769db46f39c42ee7ad5f71f4167c47edd281e767,"DAI / WETH 0.3%",sushiswap-v3-ethereum,dai,weth,,,above,both_quote,1609326,32470522
-0x69d57af146163a5fd2030783093c304969ea9f42c19e9cc8349a5b9263b2ab13,"apxUSD / USDC 0.49%",uniswap-v4-ethereum,apxusd,usd-coin,,,above,both_quote,1594881,806282
-0x83f24023d15d835a213df24fd309c47dab5beb32,"crvUSD / cbBTC",curve,crvusd,coinbase-wrapped-btc,,,above,both_quote,1526240,19071679
-0x7f86bf177dd4f3494b841a37e810a34dd56c829b,"USDC / WBTC / WETH",curve,usd-coin,wrapped-bitcoin,,,above,both_quote,1314098,5837229
-0x95dbb3c7546f22bce375900abfdd64a4e5bd73d6,"EUROC / USDC 0.05%",uniswap_v3,euro-coin,usd-coin,,,above,both_quote,1502054,33098156
-0xf5ebbd2cabd7c7a1db4ad9f8bbbcfc8745c1c1b0addb75b2a9652f47001c0a6d,"CDXR / ELEVATE 0.3%",uniswap-v4-ethereum,,,CDXR,33582066,below,min_cap_of_two:gt_fdv,1501973,7252832
-0x6ca298d2983ab03aa1da7679389d955a4efee15c,"WETH / USDT 0.05%",pancakeswap-v3-ethereum,weth,tether,,,above,both_quote,1490678,43092225
-0xcbcdf9626bc03e24f779434178a73a0b4bad62ed,"WBTC / WETH 0.3%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,1435526,24695750
-0x54c72c46df32f2cc455e84e41e191b26ed73a29452cdd3d82f511097af9f427e,"WBTC / ETH 0.3%",uniswap-v4-ethereum,wrapped-bitcoin,ethereum,,,above,both_quote,1403123,27515869
-0xefc6516323fbd28e80b85a497b65a86243a54b3e,"BOLD / USDC",curve,liquity-bold-2,usd-coin,liquity-bold-2,37010315,below,single_subject:cg_mcap,1312283,15325139
-0x4f52c3a81e33521e5a9a47fd9d3be475d2279c2e,"crvUSD / tBTC",curve,crvusd,tbtc,,,above,both_quote,1257792,16856300
-0x9a5c1d2f4a7a7962a63259de6fcc1afb1d0aa1abdf5d19c23d22fd78953c5167,"USDC / UNI 0.3%",uniswap-v4-ethereum,usd-coin,uniswap,uniswap,4051927524,above,single_subject:cg_mcap,1232765,37141443
-0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8,"LINK / WETH 0.3%",uniswap_v3,chainlink,weth,chainlink,8452946739,above,single_subject:cg_mcap,1232007,113502488
-0xe0cc64ab3712e2087e1d4aab6f3a14f120449e5f,"LBTC / WBTC",fluid-ethereum,lombard-staked-btc,wrapped-bitcoin,lombard-staked-btc,790187646,above,single_subject:cg_mcap,1216536,14046691
-0x6d074d42d50399581cc3d303b8024000a7897290,"EUROC / EURCV 0.01%",uniswap_v3,euro-coin,societe-generale-forge-eurcv,,,above,both_quote,1186973,18030659
-0x4eceeb5adaa1cabd56451c1f1ea82b33effb6de62097a19734936f574e9a2de2,"GHO / USDT 0.01%",uniswap-v4-ethereum,gho,tether,,,above,both_quote,1158487,19138204
-0xcd019866bb9876e0c3f135bc5fe856a0566d490c1b2fcca97e8205ee25048e6f,"AAVE / UNI 0.3%",uniswap-v4-ethereum,aave,uniswap,aave,1950326078,above,min_cap_of_two:cg_mcap,1120349,26929947
-0x6af632b8235f1a9d95a816f7a4090736346b763a8ab4e8327017aaae72d0d1d2,"LSK / ETH 0.3%",uniswap-v4-ethereum,lisk,ethereum,lisk,96680274,below,single_subject:cg_mcap,1108100,15797437
-0x63bb22f47c7ede6578a25c873e77eb782ec8e4c19778e36ce64d37877b5bd1e7,"USDe / USDT 0.005%",uniswap-v4-ethereum,ethena-usde,tether,,,above,both_quote,1107058,54959826
-0xacdb27b266142223e1e676841c1e809255fc6d07,"WETH / USDT 0.01%",pancakeswap-v3-ethereum,weth,tether,,,above,both_quote,1090100,44126965
-0xe6d7ebb9f1a9519dc06d557e03c522d53520e76a,"USDe / USDC 0.01%",uniswap_v3,ethena-usde,usd-coin,,,above,both_quote,1064550,99734161
-0xc756bba710d45647715079ce50aa16aab36ded42,"PAXG / XAUt 0.01%",uniswap_v3,pax-gold,tether-gold,pax-gold,1867749504,above,min_cap_of_two:cg_mcap,1047639,79460188
-0x5777d92f208679db4b9778590fa3cab3ac9e2168,"DAI / USDC 0.01%",uniswap_v3,dai,usd-coin,,,above,both_quote,1025882,42168875
-0x54222f404dcfac705322045f01d100380b871450,"fwUSDC / fwWETH",ring-exchange-ethereum,,,fwUSDC,,unknown,gt_fdv_only_above_threshold,1022485,20772500
-0xa43fe16908251ee70ef74718545e4fe6c5ccec9f,"PEPE / WETH",uniswap_v2,pepe,weth,pepe,1436330501,above,single_subject:cg_mcap,1015582,56321840
-0x7413522ca4b846ff826e6d757af70a2cb4083065,"apyUSD / apxUSD 0.25%",pancakeswap-v3-ethereum,apyusd,apxusd,apyusd,179508078,above,single_subject:cg_mcap,995258,940501
-0xfd9f0c933bede7bfccd045e4359d7511b4d5a450bec9997ebf8500fbfa22967d,"USDG / USDT 0.005%",uniswap-v4-ethereum,global-dollar,tether,,,above,both_quote,960594,175292
-0xb98437c7ba28c6590dd4e1cc46aa89eed181f97108e5b6221730d41347bc817f,"USDC / WBTC 0.3%",uniswap-v4-ethereum,usd-coin,wrapped-bitcoin,,,above,both_quote,958777,20386913
-0xce2899b16743cfd5a954d8122d5e07f410305b1aebee39fd73d9f3b9ebf10c2f,"AZTEC / ETH 0.05%",uniswap-v4-ethereum,aztec,ethereum,aztec,38040198,below,single_subject:cg_mcap,930702,22613827
-0xd51a44d3fae010294c616388b506acda1bfaae46,"USDT / WBTC / WETH",curve,tether,wrapped-bitcoin,,,above,both_quote,783910,13635850
-0x3d8a4e3c8985f514808a901424724c9bc03b7a5b5ac3ca8b679d4681690d1e7f,"ETH / WBTC 0.01%",uniswap-v4-ethereum,ethereum,wrapped-bitcoin,,,above,both_quote,918667,9052398
-0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc,"WETH / USDC",uniswap_v2,weth,usd-coin,,,above,both_quote,917476,19964714
-0x4d9f9d15101eec665f77210cb999639f760f831e,"stETH / frxETH",curve,staked-ether,frax-ether,frax-ether,149331585,above,single_subject:cg_mcap,909714,714385
-0x3470447f3cecffac709d3e783a307790b0208d60,"UNI / USDT 0.3%",uniswap_v3,uniswap,tether,uniswap,4051927524,above,single_subject:cg_mcap,894906,26563146
-0x7067a500ad68cf5129b957fa62c97042cddccaa15d16cb91e3720d97971109bb,"USDC / cbBTC 0.3%",uniswap-v4-ethereum,usd-coin,coinbase-wrapped-btc,,,above,both_quote,852497,35351229
-0xb90d11907f96a9d5fd8979ef271d3bb9b90052d9299d1f95faa5168c55bcb716,"USDG / USDC 0.007%",uniswap-v4-ethereum,global-dollar,usd-coin,,,above,both_quote,848991,41789758
-0xf4d0cf32908b2c7f1021339c43df0f77f06896d7,"USDat / USDC",curve,saturn-dollar,usd-coin,saturn-dollar,67687213,below,single_subject:cg_mcap,846549,95847767
-0x4d68b530920d26c3b01c99fecc19e21011b72bbd,"ZAMA / USDT 0.05%",uniswap_v3,zama,tether,zama,116264728,above,single_subject:cg_mcap,834262,26580930
-0x69c7bd26512f52bf6f76fab834140d13dda673ca,"NPC / WETH",uniswap_v2,non-playable-coin,weth,non-playable-coin,163543083,above,single_subject:cg_mcap,826728,22257634
-0x58299b9ad89104f189f5efcdf4910615cb9e3296afb0c5a1d1d3befdd1bf7ae4,"WBTC / wstETH 0.25%",uniswap-v4-ethereum,wrapped-bitcoin,wrapped-steth,,,above,both_quote,801516,10927736
-0x41a561b972039a9ccb975a4c17b84c9f95099e15,"ADI / USDC 0.05%",uniswap_v3,adi-token,usd-coin,adi-token,82814293,below,single_subject:cg_mcap,799811,18534265
-0x1c60dc7ce348dc9f1e8992c027350acfda4ba66e2365aa87cbdd98c490185088,"ETH / AAVE 0.3%",uniswap-v4-ethereum,ethereum,aave,aave,1950326078,above,single_subject:cg_mcap,775175,25480247
-0x5b70a1582135bd04e39ca94a6a56fc3a828e3115,"PRIME / USDC 0.01%",uniswap_v3,hastra-prime,usd-coin,hastra-prime,575668454,above,single_subject:cg_mcap,771313,69294234
-0xb7ecb2aa52aa64a717180e030241bc75cd946726,"tBTC / WBTC",curve,tbtc,wrapped-bitcoin,,,above,both_quote,765321,22808152
-0x5d0ed52610c76d7bf729130ce7ddc0488b2f4bd0a0db1f12adbe6a32deaff893,"BOLD / USDC 0.05%",uniswap-v4-ethereum,liquity-bold-2,usd-coin,liquity-bold-2,37010315,below,single_subject:cg_mcap,740679,6982742
-0x52c77b0cb827afbad022e6d6caf2c44452edbc39,"SPX / WETH",uniswap_v2,spx6900,weth,spx6900,441298589,above,single_subject:cg_mcap,715885,47573919
+0x2b21c65d9a7dc6926ee330a1c6e5a8037fd81774f3dc066536f800128e39f634,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,164269589,375938584
+0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640,"WETH / USDC 0.05%",uniswap_v3,weth,usd-coin,,,above,both_quote,94980121,2654761122
+0x3b1b1f2e775a6db1664f8e7d59ad568605ea2406312c11aef03146c0cf89d5b9,"USDT / USDS",uniswap-v4-ethereum,tether,usds,,,above,both_quote,93336213,3032302802
+0x667701e51b4d1ca244f17c78f7ab8744b4c99f9b,"USDC / USDT",fluid-ethereum,usd-coin,tether,,,above,both_quote,74839054,1914006699
+0x2da3fa618ee5c9842f277cda8acf26992610b9cc,"MAHC / WETH",uniswap_v2,,weth,MAHC,,unknown,gt_fdv_only_above_threshold,70156896,70156896
+0x4e68ccd3e89f51c3074ca5072bbac773960dfa36,"WETH / USDT 0.3%",uniswap_v3,weth,tether,,,above,both_quote,67373803,1444866390
+0xe63e32b2ae40601662f760d6bf5d771057324fbd97784fe1d3717069f7b75d45,"PYUSD / USDS",uniswap-v4-ethereum,paypal-usd,usds,,,above,both_quote,64139473,1323761342
+0x0fb0e40cec3bb23e13abc585958a93c796fbea56955e19a23727a716a0423239,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,51797592,2060372620
+0xe0554a476a092703abdb3ef35c80e0d76d32939f,"USDC / WETH 0.01%",uniswap_v3,usd-coin,weth,,,above,both_quote,47137726,1419890180
+0xcb62c2d6894736d4216a41f5812bb9771de056d5,"7AΩ∞ / WETH",uniswap_v2,,weth,7AΩ∞,,unknown,gt_fdv_only_above_threshold,44943269,887462145
+0x28cd762e49726a4f0725a2846c85d19462b3e563,"BULL / WETH",uniswap_v2,,weth,BULL,,unknown,gt_fdv_only_above_threshold,39553304,1280674468
+0x3416cf6c708da44db2624d63ea0aaef7113527c6,"USDC / USDT 0.01%",uniswap_v3,usd-coin,tether,,,above,both_quote,35808825,422178368
+0x395f91b34aa34a477ce3bc6505639a821b286a62b1a164fc1887fa3a5ef713a5,"USDC / USDT",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,29752364,820105745
+0x4585fe77225b41b697c938b018e2ac67ac5a20c0,"WBTC / WETH 0.05%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,28858532,533495030
+0x4f493b7de8aac7d55f71853688b1f7c8f0243c85,"USDC / USDT",curve,usd-coin,tether,,,above,both_quote,27037211,593843867
+0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7,"DAI / USDC / USDT",curve,dai,usd-coin,,,above,both_quote,14689259,5692376
+0x3c0441b42195f4ad6aa9a0978e06096ea616cda7,"cbBTC / WBTC",fluid-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,24236975,242129130
+0xc7bbec68d12a0d1830360f8ec58fa599ba1b0e9b,"WETH / USDT 0.01%",uniswap_v3,weth,tether,,,above,both_quote,21952131,530430831
+0x56534741cd8b152df6d48adf7ac51f75169a83b2,"WBTC / USDT 0.05%",uniswap_v3,wrapped-bitcoin,tether,,,above,both_quote,20664903,644526880
+0x50b00c1a5a8e582ec808e97e71598cd135206a9f9c548eab2ed73659e7ee5fa8,"ETH / USDT 0.3%",uniswap-v4-ethereum,ethereum,tether,,,above,both_quote,18966221,166914006
+0x8aa4e11cbdf30eedc92100f4c8a31ff748e201d44712cc8c90d189edaa8e4e47,"USDC / USDT 0.001%",uniswap-v4-ethereum,usd-coin,tether,,,above,both_quote,18718098,572922376
+0x9035721b23481db3888fd201b9c2b26dbc3af60258bca65e669f2ed98dc8eb4f,"RLUSD / USDS",uniswap-v4-ethereum,ripple-usd,usds,,,above,both_quote,17761081,889065411
+0x0b1a513ee24972daef112bc777a5610d4325c9e7,"wstETH / ETH",fluid-ethereum,wrapped-steth,ethereum,,,above,both_quote,15936838,186694362
+0xbafead7c60ea473758ed6c6021505e8bbd7e8e5d,"AUSD / USDC 0.01%",uniswap_v3,agora-dollar,usd-coin,,,above,both_quote,13352152,242946071
+0xeda62d2906d0edf26d40c793d581609552a44a87f618a98ff76ebe8dde4b7edb,"USDG / USDC",uniswap-v4-ethereum,global-dollar,usd-coin,,,above,both_quote,12978339,30549494
+0x4dece678ceceb27446b35c672dc7d61f30bad69e,"crvUSD / USDC",curve,crvusd,usd-coin,,,above,both_quote,11957343,181072113
+0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8,"USDC / WETH 0.3%",uniswap_v3,usd-coin,weth,,,above,both_quote,11840095,213286120
+0x11b815efb8f581194ae79006d24e0d814b7697f6,"WETH / USDT 0.05%",uniswap_v3,weth,tether,,,above,both_quote,11123266,382750254
+0x72331fcb696b0151904c03584b66dc8365bc63f8a144d89a773384e3a579ca73,"ETH / USDT 0.05%",uniswap-v4-ethereum,ethereum,tether,,,above,both_quote,11098929,132579881
+0xdce6394339af00981949f5f3baf27e3610c76326a700af57e4b3e3ae4977f78d,"ETH / USDC 0.3%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,10835332,179629940
+0x383e6b4437b59fff47b619cba855ca29342a8559,"PYUSD / USDC",curve,paypal-usd,usd-coin,,,above,both_quote,10478263,163588476
+0xe8f7c89c5efa061e340f2d2f206ec78fd8f7e124,"cbBTC / WBTC 0.01%",uniswap_v3,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,10315284,95178503
+0xdc24316b9ae028f1497c275eb9192a3ea0f67022,"stETH / ETH",curve,staked-ether,ethereum,,,above,both_quote,10027745,107347784
+0x19e129c09646e22a87fe24c243a15ab893f97859,"CRD / USDT 0.01%",uniswap_v3,,tether,CRD,,unknown,gt_fdv_only_above_threshold,9952072,17237280
+0x5b03cccab7ba3010fa5cad23746cbf0794938e96,"USDT / USDe",curve,tether,ethena-usde,,,above,both_quote,9071001,168236893
+0xbf8fc52a30d6500e86c681f082d3524e35fb4ceb21ded8c13c6ce3968690adc6,"cbBTC / WBTC 0.005%",uniswap-v4-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,9033525,101621762
+0xe500210c7ea6bfd9f69dce044b09ef384ec2b34832f132baec3b418208e3a657,"USDC / WETH",uniswap-v4-ethereum,usd-coin,weth,,,above,both_quote,8482380,218807216
+0x5018be882dcce5e3f2f3b0913ae2096b9b3fb61f,"USDC / fxUSD",curve,usd-coin,f-x-protocol-fxusd,f-x-protocol-fxusd,79697827,below,single_subject:cg_mcap,8216517,73820015
+0x21c67e77068de97969ba93d4aab21826d33ca12bb9f565d8496e8fda8a82ca27,"ETH / USDC 0.05%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,8082945,150519970
+0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801,"UNI / WETH 0.3%",uniswap_v3,uniswap,weth,uniswap,3952497590,above,single_subject:cg_mcap,7637149,128357598
+0xe0e0e08a6a4b9dc7bd67bcb7aade5cf48157d444-0xca5b3ef9770bb95940bd4e0bff5ead70a5973d904a8b370b52147820e61a2ff6,"USDC / USDT",ekubo-v2-ethereum,usd-coin,tether,,,above,both_quote,7366874,206340082
+0x90078845bceb849b171873cfbc92db8540e9c803ff57d9d21b1215ec158e79b3,"USDT / WETH",uniswap-v4-ethereum,tether,weth,,,above,both_quote,7366508,213244127
+0x390f3595bca2df7d23783dfd126427cceb997bf4,"crvUSD / USDT",curve,crvusd,tether,,,above,both_quote,6994341,200035169
+0xe41be7b340f7c2eda4da1e99b42ee1b228b526b7,"apyUSD / apxUSD",curve,apyusd,apxusd,apyusd,178974554,above,single_subject:cg_mcap,6804054,16503796
+0x836951eb21f3df98273517b7249dceff270d34bf,"USDC / ETH",fluid-ethereum,usd-coin,ethereum,,,above,both_quote,6653196,222032057
+0xb2b5618903d74bbac9e9049a035c3827afc4487cde3b994a1568b050f4c8e2e4,"ETH / LINK 0.3%",uniswap-v4-ethereum,ethereum,chainlink,chainlink,8148325666,above,single_subject:cg_mcap,6232122,170658537
+0xad1a21f61d653c6101b92c335f61140459c81c79,"MOTO / WETH",uniswap_v2,,weth,MOTO,35385349,below,single_subject:gt_fdv,6028081,6208615
+0x56fc29b86900aa0afa6e20b020429bffba1105cfb45070492c67529b46eb48c1,"USDe / USDC 0.003%",uniswap-v4-ethereum,ethena-usde,usd-coin,,,above,both_quote,5828656,409878180
+0x3ea74c37fbb79dfcd6d760870f0f4e00cf4c3960b3259d0d43f211c0547394c1,"USDC / WBTC 0.05%",uniswap-v4-ethereum,usd-coin,wrapped-bitcoin,,,above,both_quote,5706185,60772488
+0x656341ef90b622c6634e0573772ffb7f3669b9f3,"crvUSD / WETH",curve,crvusd,weth,,,above,both_quote,5556340,68462390
+0x2f92b371aef58f0abe9c10c06423de083405991f2839638914a1031e91d9a723,"cbBTC / WBTC 0.01%",uniswap-v4-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,5534924,66302937
+0xb96cee75211700bc148b95b1c907d726791f4457,"reUSD / USDT",fluid-ethereum,re-protocol-reusd,tether,,,above,both_quote,5446544,134147544
+0x025a13752ec1fb6c0e441e5d7b1678bb5f9ca62f,"USDG / USDC 0.005%",maverick-v2-eth,global-dollar,usd-coin,,,above,both_quote,5376528,275431169
+0xde632c3a214d5f14c1d8ddf0b92f8bcd188fee45,"GHO / USDC",fluid-ethereum,gho,usd-coin,,,above,both_quote,5362337,77076651
+0x64869c8d4b7c5a6a2f102c9fceea7f7de846b672,"kBTC / WBTC 0.01%",uniswap_v3,kraken-wrapped-btc,wrapped-bitcoin,kraken-wrapped-btc,623748277,above,single_subject:cg_mcap,5248344,52992749
+0x8626be23f128f5985a5d76359b10bf3db84a7306,"fwWETH / fwUNI",ring-exchange-ethereum,,,fwUNI,84354459,below,min_cap_of_two:gt_fdv,5099704,107486033
+0xc061caa073f3d95f80f8e5428d32d2d76f5e1622,"USDG / USDC",curve,global-dollar,usd-coin,,,above,both_quote,4723997,285587389
+0x21e27a5e5513d6e65c4f830167390997aa84843a,"ETH / stETH",curve,ethereum,staked-ether,,,above,both_quote,4624255,71541058
+0x109830a1aaad605bbf02a9dfa7b0b92ec2fb7daa,"wstETH / WETH 0.01%",uniswap_v3,wrapped-steth,weth,,,above,both_quote,4226065,87447782
+0xb2b92b56988a4edbe255989792c6ea239b25eaf66b42093145cbf8f630db3a17,"EUROC / USDC 0.03%",uniswap-v4-ethereum,euro-coin,usd-coin,,,above,both_quote,4036362,63785248
+0x48da0965ab2d2cbf1c17c09cfb5cbe67ad5b1406,"DAI / USDT 0.01%",uniswap_v3,dai,tether,,,above,both_quote,3892148,62648446
+0x9f2d9491277a9f2551c1f7533c1789aa6023bba0c5e9397e8a019cac5c10fe7f,"apxUSD / USDC 0.05%",uniswap-v4-ethereum,apxusd,usd-coin,,,above,both_quote,3865242,29283897
+0x72daf39b278fab80f18ad2adf73cc8b1ae63de1e508d36aa033285fff506f169,"USDC / mUSD",uniswap-v4-ethereum,usd-coin,metamask-usd,metamask-usd,26517418,below,single_subject:cg_mcap,3662417,73018093
+0x1445f32d1a74872ba41f3d8cf4022e9996120b31,"USDC / WETH 0.01%",pancakeswap-v3-ethereum,usd-coin,weth,,,above,both_quote,3618032,108997419
+0x04571c32a4e1c5f39bc3a238cb95b215058c432c,"USDT / USDC",dodo-pmm-ethereum,tether,usd-coin,,,above,both_quote,3581403,199189847
+0x6f63deedc9870d6c16fc644c6654748352cdc87c,"apxUSD / USDC",curve,apxusd,usd-coin,,,above,both_quote,3476696,13601840
+0x599326d9cd5e1ea0893305c87d5ec3199e7f05e94d72159f35dea381479a615e,"ETH / WBTC 0.05%",uniswap-v4-ethereum,ethereum,wrapped-bitcoin,,,above,both_quote,3292618,119194484
+0x862cb4e988fb66e72f128d1183829f8c05b6c6a0,"crvUSD / cbBTC",curve,crvusd,coinbase-wrapped-btc,,,above,both_quote,3128539,57927088
+0x9db9e0e53058c89e5b94e29621a205198648425b,"WBTC / USDT 0.3%",uniswap_v3,wrapped-bitcoin,tether,,,above,both_quote,3074975,77322558
+0xe521ba88837b2726e5343cca91ada6f19f356c45,"USDx / USDT",curve,axis-usd,tether,axis-usd,9980836,below,single_subject:cg_mcap,2879187,20430939
+0x00000000000014aa86c5d3c41765bb24e11bd701-0x2412d98ba8200050ba63355f9473f7f3f31c273f1b2ed56a013ad49b90b9260d,"USDG / USDC 0.007%",ekubo-v3-ethereum,global-dollar,usd-coin,,,above,both_quote,2805833,343228799
+0x2287a9620adcbf6250dc71be9ee9b2d3a1ec85a464fc6f5c06669e8d07b61bba,"USDT / ETH 0.01%",uniswap-v4-ethereum,tether,ethereum,,,above,both_quote,2781417,88676826
+0xe6ff8b9a37b0fab776134636d9981aa778c4e718,"WBTC / WETH 0.01%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,2695277,42038507
+0xc2921134073151490193ac7369313c8e0b08e1e7,"USDtb / USDC",curve,usdtb,usd-coin,,,above,both_quote,2546470,30031786
+0x00000000000014aa86c5d3c41765bb24e11bd701-0x583531a847f49c31bb86c4ae1b650dc7cb21174b18e5b8ed13108a299c3adb35,"USDe / USDC 0.003%",ekubo-v3-ethereum,ethena-usde,usd-coin,,,above,both_quote,2538425,232289407
+0xdb4c4d91f12ce76f5c9ac0eae193cf3b4d6684cd5f09bf35d03dd9ae6d8a43b1,"CTM / ETH",uniswap-v4-ethereum,c8ntinuum,ethereum,c8ntinuum,2089702044,above,single_subject:cg_fdv,2528707,71880117
+0x8366b1dde4de12c8806985fbb599d408d92d01a6faf2e478cc6bb76189cc00f1,"LIT / USDC 0.3%",uniswap-v4-ethereum,lighter,usd-coin,lighter,1004154713,above,single_subject:cg_mcap,2482082,21525970
+0x313698667d7fdd6789a9bc70821309ff891e729a,"crvUSD / WBTC",curve,crvusd,wrapped-bitcoin,,,above,both_quote,2442658,23548273
+0x00000000000014aa86c5d3c41765bb24e11bd701-0x6fde3244f6fa747ae318aba6e982a4281febad4d22e3b134aa299a83a951895d,"USDC / USDT",ekubo-v3-ethereum,usd-coin,tether,,,above,both_quote,2371235,202327746
+0x147d15e009a63ebed5196ea029679329204f98fd,"fwWETH / fwUSDT",ring-exchange-ethereum,,,fwWETH,,unknown,gt_fdv_only_above_threshold,2318019,48993617
+0x99ac8ca7087fa4a2a1fb6357269965a2014abc35,"WBTC / USDC 0.3%",uniswap_v3,wrapped-bitcoin,usd-coin,,,above,both_quote,2315221,76893248
+0xdb74dfdd3bb46be8ce6c33dc9d82777bcfc3ded5,"weETH / WETH",curve,wrapped-eeth,weth,,,above,both_quote,2269170,43261752
+0x053f6a47ccba79e7d5d623173ed6dd5a31cf19c28bae0fb8276f4506295f90da,"UNI / ETH 0.3%",uniswap-v4-ethereum,uniswap,ethereum,uniswap,3952497590,above,single_subject:cg_mcap,2216797,69199784
+0xb20351bcf606dcc3525d2ed36760a86a5dec7423b77d41125bd4a416ba93448b,"sUSDe / USDT 0.008%",uniswap-v4-ethereum,ethena-staked-usde,tether,ethena-staked-usde,1313875034,above,single_subject:cg_mcap,2205281,98931743
+0x00b06862de00a7e67a2d6d3fbeea592a32460de0,"fwWBTC / fwWETH",ring-exchange-ethereum,,,fwWBTC,,unknown,gt_fdv_only_above_threshold,2172501,38087041
+0x13e12bb0e6a2f1a3d6901a59a9d585e89a6243e1,"frxUSD / crvUSD",curve,frax-usd,crvusd,,,above,both_quote,2046698,52739704
+0xfaa318479b7755b2dbfdd34dc306cb28b420ad12,"UNI / WETH 0.05%",uniswap_v3,uniswap,weth,uniswap,3952497590,above,single_subject:cg_mcap,2019763,31920475
+0x0b599ebf4e05af48b56d38e2dde520570c366460,"LBTC / WBTC 0.01%",uniswap_v3,lombard-staked-btc,wrapped-bitcoin,lombard-staked-btc,779111598,above,single_subject:cg_mcap,1959321,21434656
+0x00b9edc1583bf6ef09ff3a09f6c23ecb57fd7d0bb75625717ec81eed181e22d7,"ETH / USDC 0.01%",uniswap-v4-ethereum,ethereum,usd-coin,,,above,both_quote,1918863,64185214
+0x90512722b19945c7ec2746e34f45c301a5dadc830bb669056fa5fd5ad943e06e,"LBTC / cbBTC 0.02%",uniswap-v4-ethereum,lombard-staked-btc,coinbase-wrapped-btc,lombard-staked-btc,779111598,above,single_subject:cg_mcap,1839563,13990749
+0x75624c04a031134ec1b56ecc7131bd3ce11bcd663d16ba57ad1d0f40a91c35c2,"GULD / ELEVATE 0.3%",uniswap-v4-ethereum,guld,,guld,13347722,below,min_cap_of_two:cg_fdv,1746805,10088153
+0x73a38006d23517a1d383c88929b2014f8835b38b,"tBTC / WBTC 0.01%",uniswap_v3,tbtc,wrapped-bitcoin,,,above,both_quote,1715758,56769231
+0x8b39be478d19f3dfc2bd997796ba46662d0fce435d697fcb294f1ec0087a2f4b,"ELEVATE / GIVE 0.3%",uniswap-v4-ethereum,,,GIVE,50181922,below,min_cap_of_two:gt_fdv,1678780,10950424
+0x769db46f39c42ee7ad5f71f4167c47edd281e767,"DAI / WETH 0.3%",sushiswap-v3-ethereum,dai,weth,,,above,both_quote,1609326,34249977
+0x69d57af146163a5fd2030783093c304969ea9f42c19e9cc8349a5b9263b2ab13,"apxUSD / USDC 0.49%",uniswap-v4-ethereum,apxusd,usd-coin,,,above,both_quote,1594881,2384112
+0x83f24023d15d835a213df24fd309c47dab5beb32,"crvUSD / cbBTC",curve,crvusd,coinbase-wrapped-btc,,,above,both_quote,1526240,20589043
+0x7f86bf177dd4f3494b841a37e810a34dd56c829b,"USDC / WBTC / WETH",curve,usd-coin,wrapped-bitcoin,,,above,both_quote,1314098,6487199
+0x95dbb3c7546f22bce375900abfdd64a4e5bd73d6,"EUROC / USDC 0.05%",uniswap_v3,euro-coin,usd-coin,,,above,both_quote,1502054,34354504
+0xf5ebbd2cabd7c7a1db4ad9f8bbbcfc8745c1c1b0addb75b2a9652f47001c0a6d,"CDXR / ELEVATE 0.3%",uniswap-v4-ethereum,,,CDXR,33582066,below,min_cap_of_two:gt_fdv,1501973,9106562
+0x6ca298d2983ab03aa1da7679389d955a4efee15c,"WETH / USDT 0.05%",pancakeswap-v3-ethereum,weth,tether,,,above,both_quote,1490678,44738524
+0xcbcdf9626bc03e24f779434178a73a0b4bad62ed,"WBTC / WETH 0.3%",uniswap_v3,wrapped-bitcoin,weth,,,above,both_quote,1435526,25615182
+0x54c72c46df32f2cc455e84e41e191b26ed73a29452cdd3d82f511097af9f427e,"WBTC / ETH 0.3%",uniswap-v4-ethereum,wrapped-bitcoin,ethereum,,,above,both_quote,1403123,28433751
+0xefc6516323fbd28e80b85a497b65a86243a54b3e,"BOLD / USDC",curve,liquity-bold-2,usd-coin,liquity-bold-2,36606993,below,single_subject:cg_mcap,1312283,16582658
+0x4f52c3a81e33521e5a9a47fd9d3be475d2279c2e,"crvUSD / tBTC",curve,crvusd,tbtc,,,above,both_quote,1257792,17474599
+0x9a5c1d2f4a7a7962a63259de6fcc1afb1d0aa1abdf5d19c23d22fd78953c5167,"USDC / UNI 0.3%",uniswap-v4-ethereum,usd-coin,uniswap,uniswap,3952497590,above,single_subject:cg_mcap,1232765,38187147
+0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8,"LINK / WETH 0.3%",uniswap_v3,chainlink,weth,chainlink,8148325666,above,single_subject:cg_mcap,1232007,112417748
+0xe0cc64ab3712e2087e1d4aab6f3a14f120449e5f,"LBTC / WBTC",fluid-ethereum,lombard-staked-btc,wrapped-bitcoin,lombard-staked-btc,779111598,above,single_subject:cg_mcap,1216536,14809955
+0x6d074d42d50399581cc3d303b8024000a7897290,"EUROC / EURCV 0.01%",uniswap_v3,euro-coin,societe-generale-forge-eurcv,,,above,both_quote,1186973,19263461
+0x4eceeb5adaa1cabd56451c1f1ea82b33effb6de62097a19734936f574e9a2de2,"GHO / USDT 0.01%",uniswap-v4-ethereum,gho,tether,,,above,both_quote,1158487,19793995
+0xcd019866bb9876e0c3f135bc5fe856a0566d490c1b2fcca97e8205ee25048e6f,"AAVE / UNI 0.3%",uniswap-v4-ethereum,aave,uniswap,aave,1886158714,above,min_cap_of_two:cg_mcap,1120349,27800418
+0x6af632b8235f1a9d95a816f7a4090736346b763a8ab4e8327017aaae72d0d1d2,"LSK / ETH 0.3%",uniswap-v4-ethereum,lisk,ethereum,lisk,84226698,below,single_subject:cg_mcap,1108100,16750285
+0x63bb22f47c7ede6578a25c873e77eb782ec8e4c19778e36ce64d37877b5bd1e7,"USDe / USDT 0.005%",uniswap-v4-ethereum,ethena-usde,tether,,,above,both_quote,1107058,54888406
+0xacdb27b266142223e1e676841c1e809255fc6d07,"WETH / USDT 0.01%",pancakeswap-v3-ethereum,weth,tether,,,above,both_quote,1090100,45214514
+0xe6d7ebb9f1a9519dc06d557e03c522d53520e76a,"USDe / USDC 0.01%",uniswap_v3,ethena-usde,usd-coin,,,above,both_quote,1064550,99895814
+0xc756bba710d45647715079ce50aa16aab36ded42,"PAXG / XAUt 0.01%",uniswap_v3,pax-gold,tether-gold,pax-gold,1861852952,above,min_cap_of_two:cg_mcap,1047639,78656438
+0x5777d92f208679db4b9778590fa3cab3ac9e2168,"DAI / USDC 0.01%",uniswap_v3,dai,usd-coin,,,above,both_quote,1025882,42307031
+0x54222f404dcfac705322045f01d100380b871450,"fwUSDC / fwWETH",ring-exchange-ethereum,,,fwUSDC,,unknown,gt_fdv_only_above_threshold,1022485,21941847
+0xa43fe16908251ee70ef74718545e4fe6c5ccec9f,"PEPE / WETH",uniswap_v2,pepe,weth,pepe,1424439223,above,single_subject:cg_mcap,1015582,57214773
+0x7413522ca4b846ff826e6d757af70a2cb4083065,"apyUSD / apxUSD 0.25%",pancakeswap-v3-ethereum,apyusd,apxusd,apyusd,178974554,above,single_subject:cg_mcap,995258,1877292
+0xfd9f0c933bede7bfccd045e4359d7511b4d5a450bec9997ebf8500fbfa22967d,"USDG / USDT 0.005%",uniswap-v4-ethereum,global-dollar,tether,,,above,both_quote,960594,960598
+0xb98437c7ba28c6590dd4e1cc46aa89eed181f97108e5b6221730d41347bc817f,"USDC / WBTC 0.3%",uniswap-v4-ethereum,usd-coin,wrapped-bitcoin,,,above,both_quote,958777,21585822
+0xce2899b16743cfd5a954d8122d5e07f410305b1aebee39fd73d9f3b9ebf10c2f,"AZTEC / ETH 0.05%",uniswap-v4-ethereum,aztec,ethereum,aztec,37133547,below,single_subject:cg_mcap,930702,23329300
+0xd51a44d3fae010294c616388b506acda1bfaae46,"USDT / WBTC / WETH",curve,tether,wrapped-bitcoin,,,above,both_quote,783910,13577846
+0x3d8a4e3c8985f514808a901424724c9bc03b7a5b5ac3ca8b679d4681690d1e7f,"ETH / WBTC 0.01%",uniswap-v4-ethereum,ethereum,wrapped-bitcoin,,,above,both_quote,918667,9858804
+0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc,"WETH / USDC",uniswap_v2,weth,usd-coin,,,above,both_quote,917476,20909126
+0x4d9f9d15101eec665f77210cb999639f760f831e,"stETH / frxETH",curve,staked-ether,frax-ether,frax-ether,147377310,above,single_subject:cg_mcap,909714,1624308
+0x3470447f3cecffac709d3e783a307790b0208d60,"UNI / USDT 0.3%",uniswap_v3,uniswap,tether,uniswap,3952497590,above,single_subject:cg_mcap,894906,27382555
+0x7067a500ad68cf5129b957fa62c97042cddccaa15d16cb91e3720d97971109bb,"USDC / cbBTC 0.3%",uniswap-v4-ethereum,usd-coin,coinbase-wrapped-btc,,,above,both_quote,852497,36581795
+0xb90d11907f96a9d5fd8979ef271d3bb9b90052d9299d1f95faa5168c55bcb716,"USDG / USDC 0.007%",uniswap-v4-ethereum,global-dollar,usd-coin,,,above,both_quote,848991,42683675
+0xf4d0cf32908b2c7f1021339c43df0f77f06896d7,"USDat / USDC",curve,saturn-dollar,usd-coin,saturn-dollar,70615059,below,single_subject:cg_mcap,846549,96519667
+0x4d68b530920d26c3b01c99fecc19e21011b72bbd,"ZAMA / USDT 0.05%",uniswap_v3,zama,tether,zama,115983436,above,single_subject:cg_mcap,834262,26414357
+0x69c7bd26512f52bf6f76fab834140d13dda673ca,"NPC / WETH",uniswap_v2,non-playable-coin,weth,non-playable-coin,157014487,above,single_subject:cg_mcap,826728,23241247
+0x58299b9ad89104f189f5efcdf4910615cb9e3296afb0c5a1d1d3befdd1bf7ae4,"WBTC / wstETH 0.25%",uniswap-v4-ethereum,wrapped-bitcoin,wrapped-steth,,,above,both_quote,801516,11412568
+0x41a561b972039a9ccb975a4c17b84c9f95099e15,"ADI / USDC 0.05%",uniswap_v3,adi-token,usd-coin,adi-token,82691741,below,single_subject:cg_mcap,799811,18673841
+0x1c60dc7ce348dc9f1e8992c027350acfda4ba66e2365aa87cbdd98c490185088,"ETH / AAVE 0.3%",uniswap-v4-ethereum,ethereum,aave,aave,1886158714,above,single_subject:cg_mcap,775175,26172873
+0x5b70a1582135bd04e39ca94a6a56fc3a828e3115,"PRIME / USDC 0.01%",uniswap_v3,hastra-prime,usd-coin,hastra-prime,575350731,above,single_subject:cg_mcap,771313,69851263
+0xb7ecb2aa52aa64a717180e030241bc75cd946726,"tBTC / WBTC",curve,tbtc,wrapped-bitcoin,,,above,both_quote,765321,23508884
+0x5d0ed52610c76d7bf729130ce7ddc0488b2f4bd0a0db1f12adbe6a32deaff893,"BOLD / USDC 0.05%",uniswap-v4-ethereum,liquity-bold-2,usd-coin,liquity-bold-2,36606993,below,single_subject:cg_mcap,740679,7657501
+0x52c77b0cb827afbad022e6d6caf2c44452edbc39,"SPX / WETH",uniswap_v2,spx6900,weth,spx6900,431938801,above,single_subject:cg_mcap,715885,48185154
 0xd9f3a5a0e7499149538cdee8b804a5ac4f4944fc,"ALN / WETH",sushiswap,,weth,ALN,49493528,below,single_subject:gt_mcap,712721,712723
-0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb,"AAVE / WETH 0.3%",uniswap_v3,aave,weth,aave,1950326078,above,single_subject:cg_mcap,704190,33453374
-0x4a24fcf3c1cbebd80d09537c7aa15adf2d228aa1b9ba1b0e5fb82e66dc96c0d2,"USDT / WBTC 0.05%",uniswap-v4-ethereum,tether,wrapped-bitcoin,,,above,both_quote,698789,18349008
-0x00000000000014aa86c5d3c41765bb24e11bd701-0xde39735c66c6f51669c80e1fde362e42a1b1b927d49dee8d6577765a4e4d38c6,"USDC / ETH 0.05%",ekubo-v3-ethereum,usd-coin,ethereum,,,above,both_quote,697012,21675277
-0xd3d2e2692501a5c9ca623199d38826e513033a17,"UNI / WETH",uniswap_v2,uniswap,weth,uniswap,4051927524,above,single_subject:cg_mcap,695326,9445381
-0x5ae13baaef0620fdae1d355495dc51a17adb4082,"PAXG / USDC 0.05%",uniswap_v3,pax-gold,usd-coin,pax-gold,1867749504,above,single_subject:cg_mcap,667462,43891279
-0x276084527b801e00db8e4410504f9baf93f72c67,"rsETH / ETH",fluid-ethereum,kelp-dao-restaked-eth,ethereum,kelp-dao-restaked-eth,1042465442,above,single_subject:cg_mcap,644504,3802660
-0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852,"WETH / USDT",uniswap_v2,weth,tether,,,above,both_quote,641366,18564206
-0x20c3a15e34e5d88aeba004b0753af69e4f6bea80eae2263f7a92e919cd33cc56,"USDT / WBTC 0.3%",uniswap-v4-ethereum,tether,wrapped-bitcoin,,,above,both_quote,641061,19343788
-0x5459f9d1f649b9f1353a50fd0c8d796b4feb11926bec295cb0614a135febdf9a,"tBTC / cbBTC 0.01%",uniswap-v4-ethereum,tbtc,coinbase-wrapped-btc,,,above,both_quote,638562,54446752
-0x90a64ed1c47392829a39df15ff25401c21818ea2db9e2538c9c25182f76b7c1e,"FUSE / ETH 1.1%",uniswap-v4-ethereum,,ethereum,FUSE,1227915,below,single_subject:gt_fdv,621217,3158382
-0x0b316150f91dbd9a234b870cc75aaf57def1be43,"DEFO / WETH",uniswap_v2,,weth,DEFO,244318,below,single_subject:gt_mcap,620695,19302
-0x433a00819c771b33fa7223a5b3499b24fbcd1bbc,"wTAO / WETH 1%",uniswap_v3,wrapped-tao,weth,wrapped-tao,25219273,below,single_subject:cg_mcap,607625,25137824
-0x553e9c493678d8606d6a5ba284643db2110df823,"rETH / WETH 0.01%",uniswap_v3,rocket-pool-eth,weth,,,above,both_quote,594775,22181599
-0x76dbd3b36d5f0a1fa1c38b75984a9ed57aa1a36a6dbab77b9503ef9349dbb617,"frxUSD / USDC 0.008%",uniswap-v4-ethereum,frax-usd,usd-coin,,,above,both_quote,583457,7995571
-0x9a772018fbd77fcd2d25657e5c547baff3fd7d16,"WBTC / USDC 0.05%",uniswap_v3,wrapped-bitcoin,usd-coin,,,above,both_quote,582277,17374010
-0x9c4fe5ffd9a9fc5678cfbd93aa2d4fd684b67c4c,"PAXG / WETH",uniswap_v2,pax-gold,weth,pax-gold,1867749504,above,single_subject:cg_mcap,577642,12748659
-0x635ef0056a597d13863b73825cca297236578595,"GHO / crvUSD",curve,gho,crvusd,,,above,both_quote,574282,9924607
-0x2621cc0b3f3c079c1db0e80794aa24976f0b9e3c,"USDS / SKY",uniswap_v2,usds,sky,sky,1468840505,above,single_subject:cg_mcap,568460,15963633
-0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14,"crvUSD / WETH / CRV",curve,crvusd,weth,,,above,both_quote,335557,4858653
-0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29,"POWER / ETH 0.05%",uniswap-v4-ethereum,power-protocol,ethereum,power-protocol,38114269,below,single_subject:cg_mcap,563972,968461
-0xcfecc1c9f3cb6190cb1ff7f65a130bfbe5107d38,"LDO / WETH 0.05%",uniswap_v3,lido-dao,weth,lido-dao,293424362,above,single_subject:cg_mcap,562527,46973557
-0xf8e349d1d827a6edf17ee673664cfad4ca78c533,"SEI / USDC 0.3%",uniswap_v3,layerzero-bridged-sei,usd-coin,layerzero-bridged-sei,3164259,below,single_subject:cg_fdv,549569,27134159
-0xac216046ab7df980f1b8c5e254c922ef7e0a2d11,"USDSM / USDC",curve,stable-mint-usd,usd-coin,stable-mint-usd,12356213,below,single_subject:cg_mcap,548417,956525
-0x00000000000014aa86c5d3c41765bb24e11bd701-0x1f5ddf72564f731684c5770af5a25d4a3855c13e9c841a2c8b43b25fff19b0ec,"cbBTC / WBTC 0.004%",ekubo-v3-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,532027,40650619
-0x8e176eb9a5074c807cfffcedb5c5483a12e37270,"WETH / USDC 0.13%",balancer_ethereum,weth,usd-coin,,,above,both_quote,520319,929455
-0x4674abc5796e1334b5075326b39b748bee9eaa34,"AAVE / WETH 0.05%",uniswap_v3,aave,weth,aave,1950326078,above,single_subject:cg_mcap,518659,23118349
-0x7486ff76f69872d27b22dada4078bd55b36a5324,"WBTC / WETH 0.3%",sushiswap-v3-ethereum,wrapped-bitcoin,weth,,,above,both_quote,487670,8949576
-0xf6e8088529094bc485561fa2a03e3d19c9a60f5d99a997e8fe16ab4ca2db277a,"DAI / USDT 0.007%",uniswap-v4-ethereum,dai,tether,,,above,both_quote,461249,28829753
-0xf063bd202e45d6b2843102cb4ece339026645d4a,"USDe / USDT",fluid-ethereum,ethena-usde,tether,,,above,both_quote,454963,18356763
-0x50e0b4c7d399db367f5b60f911c24b3a16d5c6a9acd75afe6ffd7b50637a273f,"3x / ETH",uniswap-v4-ethereum,,ethereum,3x,176035,below,single_subject:gt_fdv,451355,129089
-0x859f7092f56c43bb48bb46de7119d9c799716cdf,"XCN / WETH",uniswap_v2,chain-2,weth,chain-2,169085876,above,single_subject:cg_mcap,449441,4934236
-0x6546055f46e866a4b9a4a13e81273e3152bae5da,"XAUt / USDT 0.05%",uniswap_v3,tether-gold,tether,tether-gold,2675656704,above,single_subject:cg_mcap,449112,28607185
-0x13394005c1012e708fce1eb974f1130fdc73a5ce,"PYUSD / USDC 0.01%",uniswap_v3,paypal-usd,usd-coin,,,above,both_quote,446653,8108880
-0x5d4f3c6fa16908609bac31ff148bd002aa6b8c83,"LINK / WETH 0.05%",uniswap_v3,chainlink,weth,chainlink,8452946739,above,single_subject:cg_mcap,445477,22458952
-0xf5f5b97624542d72a9e06f04804bf81baa15e2b4,"USDT / WBTC / WETH",curve,tether,wrapped-bitcoin,,,above,both_quote,378543,2213723
-0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8,"DAI / WETH 0.3%",uniswap_v3,dai,weth,,,above,both_quote,411019,10832519
-0x04c8577958ccc170eb3d2cca76f9d51bc6e42d8f,"USDC / USDT 0.01%",pancakeswap-v3-ethereum,usd-coin,tether,,,above,both_quote,399392,9953389
-0x68c498df05982d635914ee0ae6501c749a78b473,"fwDAI / fwWETH",ring-exchange-ethereum,,,fwDAI,,unknown,gt_fdv_only_above_threshold,397491,7926895
-0x9aac67deef711d438ad711ae495b8cb43a6ee1a8,"MNT / USDe 0.3%",uniswap_v3,mantle,ethena-usde,mantle,1818946030,above,single_subject:cg_mcap,396755,12470133
-0x331b8e7f8d7b281cca61d1de8beb4cf2dad61327,"$Go / WETH",uniswap_v2,,weth,$Go,3023514,below,single_subject:gt_fdv,372934,616655
-0x167478921b907422f8e88b43c4af2b8bea278d3a,"sDAI / sUSDe",curve,savings-dai,ethena-staked-usde,savings-dai,164833635,above,min_cap_of_two:cg_mcap,372703,22476956
-0x706dcb5e9cb7027d8b0c61f7fa144e65d575064a,"GHO / USDC 0.01%",uniswap_v3,gho,usd-coin,,,above,both_quote,369459,10906788
-0xd9ff8396554a0d18b2cfbec53e1979b7ecce8373,"crvUSD / WBTC",curve,crvusd,wrapped-bitcoin,,,above,both_quote,360910,6056333
-0x16a92c8f5fc3087690bc09389fa7e038c47fa26b4f0ca978509d366a62982185,"USDC / ADS 0.01%",uniswap-v4-ethereum,usd-coin,adshares,adshares,17816075,below,single_subject:cg_mcap,357366,6949299
-0xfd1c4559ad314e035e2440d88574ce44ff10ab05cfc90e4c8591b2fae7c73a6f,"SEND / ETH 1%",uniswap-v4-ethereum,,ethereum,SEND,836896,below,single_subject:gt_fdv,353021,9502527
-0xa478c2975ab1ea89e8196811f51a7b7ade33eb11,"DAI / WETH",uniswap_v2,dai,weth,,,above,both_quote,346467,7632409
-0xf1f435b05d255a5dbde37333c0f61da6f69c6127,"crvUSD / tBTC",curve,crvusd,tbtc,,,above,both_quote,343318,6381263
-0x763d3b7296e7c9718ad5b058ac2692a19e5b3638,"USDC / WETH 0.3%",sushiswap-v3-ethereum,usd-coin,weth,,,above,both_quote,339406,7318186
-0x625e92624bc2d88619accc1788365a69767f6200,"PYUSD / crvUSD",curve,paypal-usd,crvusd,,,above,both_quote,333267,5894546
-0x7e13876b92f1a62c599c231f783f682e96b91761,"stLINK / LINK",curve,stake-link-staked-link,chainlink,stake-link-staked-link,80340461,below,min_cap_of_two:cg_fdv,326970,6331544
-0x909e4a022a7505d44b19b36fe76ee18567379ee4c9697438acde2e159c006c32,"FOLD / ETH 0.3%",uniswap-v4-ethereum,interfold,ethereum,interfold,14612913,below,single_subject:cg_mcap,324503,93727327
-0x9c7ed68b00dc4f45243b07ce71a54a86e8f8fcbb,"SERV / WETH 1%",uniswap_v3,openserv,weth,openserv,14555381,below,single_subject:cg_mcap,322783,4038878
-0x86f874212335af27c41cdb855c2255543d1499ce,"weETH / ETH",fluid-ethereum,wrapped-eeth,ethereum,,,above,both_quote,319962,22691688
-0x4068038ab5490063a3ead93b3712ed082e62bd59,"ICP / WETH 0.05%",uniswap_v3,internet-computer,weth,internet-computer,1410111223,above,single_subject:cg_mcap,319474,8052836
-0x2c2226a6381e68a86c1a8dcb8d9fdab050959dd5,"HLX / USDC 0.3%",uniswap_v3,helix-ai,usd-coin,helix-ai,4706514780,above,single_subject:cg_fdv,318522,10439615
-0xb07d640fd9e2eb9dc81b953c8e4fd006bdfeaf276010fb5418eb763ca15abfb3,"VIBE / ETH 1%",uniswap-v4-ethereum,,ethereum,VIBE,9109829,below,single_subject:gt_fdv,307377,15420361
-0x9a84a1852bc7fb608794960960adb04666a12b41,"TRX / USDC",uniswap_v2,wrapped-tron,usd-coin,wrapped-tron,1375948894,above,single_subject:cg_mcap,303729,514985
-0x5c2ab69eb2bf12a2f4572d178687bd4660512972,"reUSD / sUSDe",curve,re-protocol-reusd,ethena-staked-usde,ethena-staked-usde,1311882271,above,single_subject:cg_mcap,296392,41636245
-0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb,"PENDLE / WETH 0.3%",uniswap_v3,pendle,weth,pendle,398190805,above,single_subject:cg_mcap,289041,3753575
-0xeac10ed910ed8b167bd5785954d53641705dceb46c4fd077f7c265bef455ffb8,"sUSDe / USDT 0.025%",uniswap-v4-ethereum,ethena-staked-usde,tether,ethena-staked-usde,1311882271,above,single_subject:cg_mcap,284388,8213832
-0x339d4e50b7eb4aad7eab94db04be1c684ea42555ef189ce9c488964bdb91d4e9,"1INCH / UNI 1%",uniswap-v4-ethereum,1inch,uniswap,1inch,126419211,above,min_cap_of_two:cg_mcap,194103,3587720
-0x6bf6ce5b16c6941ada9a4e2a003209174cd2ec6fcd619a6e045bdff0b239d1fe,"1INCH / CRV 1%",uniswap-v4-ethereum,1inch,curve-dao-token,1inch,126419211,above,min_cap_of_two:cg_mcap,60034,2212893
-0x62559deabae3611186a78c5629c34ef5e4f5031377f8ea9d6e00f7fa3a2bd826,"1INCH / WBTC 1%",uniswap-v4-ethereum,1inch,wrapped-bitcoin,1inch,126419211,above,single_subject:cg_mcap,40158,1187536
-0x1d6ebf506eacf0e98a8c4566687380ddf1601192acd9bce29feeaf0c0245ea6f,"1INCH / wstETH 1%",uniswap-v4-ethereum,1inch,wrapped-steth,1inch,126419211,above,single_subject:cg_mcap,37602,3786746
-0x32dd66389b5c367a3e60b83fd7aa309361ece42946eb04f7ed05b1c244be3a7a,"1INCH / AAVE 1%",uniswap-v4-ethereum,1inch,aave,1inch,126419211,above,min_cap_of_two:cg_mcap,36099,1940824
-0x3de27efa2f1aa663ae5d458857e731c129069f29,"wstETH / AAVE 0.292%",balancer_ethereum,wrapped-steth,aave,aave,1950326078,above,single_subject:cg_mcap,184736,11084674
-0x5d059911b0fe3f9f72c701772cb7826f32fad07a0fccbf0c90d899b6bb407710,"AAVE / USDC 0.25%",uniswap-v4-ethereum,aave,usd-coin,aave,1950326078,above,single_subject:cg_mcap,59976,2267990
-0x59c38b6775ded821f010dbd30ecabdcf84e04756,"AAVE / UNI 0.3%",uniswap_v3,aave,uniswap,aave,1950326078,above,min_cap_of_two:cg_mcap,55595,2078983
-0x2187d779d9b173dd7202b38b54dca6eb04d1b32ca261980869195b5b9fa97ef8,"AAVE / USDC 0.3%",uniswap-v4-ethereum,aave,usd-coin,aave,1950326078,above,single_subject:cg_mcap,39264,5906240
-0x4d1ad4a9e61bc0e5529d64f38199ccfca56f5a42,"AAVE / USDT 0.3%",uniswap_v3,aave,tether,aave,1950326078,above,single_subject:cg_mcap,25061,2944386
-0x88a38552da2d473b57b01beab3751b4d442cbf5130ba1da347c9a00cc87b0ce1,"apyUSD / USDC 1%",uniswap-v4-ethereum,apyusd,usd-coin,apyusd,179508078,above,single_subject:cg_mcap,93294,0
-0xc21b5527c3d99226eeb89753d161a2bd926e1c952578cd4b2507f8c958da416d,"apyUSD / apxUSD 0.1%",uniswap-v4-ethereum,apyusd,apxusd,apyusd,179508078,above,single_subject:cg_mcap,28533,10337707
-0xfad57d2039c21811c8f2b5d5b65308aa99d31559,"LINK / USDC 0.3%",uniswap_v3,chainlink,usd-coin,chainlink,8452946739,above,single_subject:cg_mcap,91009,2867193
-0x50ae33c238824aa1937d5d9f1766c487bca39b548f8d957994e8357eeeca3280,"USDC / LINK 0.3%",uniswap-v4-ethereum,usd-coin,chainlink,chainlink,8452946739,above,single_subject:cg_mcap,86725,3324711
-0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974,"LINK / WETH",uniswap_v2,chainlink,weth,chainlink,8452946739,above,single_subject:cg_mcap,35009,947180
-0xac5a2c404ebba22a869998089ac7893ff4e1f0a7,"LINK / USDT 0.3%",uniswap_v3,chainlink,tether,chainlink,8452946739,above,single_subject:cg_mcap,32922,1020624
-0x9f178e86e42ddf2379cb3d2acf9ed67a1ed2550a,"UNI / LINK 0.3%",uniswap_v3,uniswap,chainlink,uniswap,4051927524,above,min_cap_of_two:cg_mcap,25863,488019
-0xb576491f1e6e5e62f1d8f26062ee822b40b0e0d4,"CVX / WETH",curve,convex-finance,weth,convex-finance,184438308,above,single_subject:cg_mcap,173702,9227239
-0x47d5e1679fe5f0d9f0a657c6715924e33ce05093,"frxETH / CVX",curve,frax-ether,convex-finance,frax-ether,149331585,above,min_cap_of_two:cg_mcap,37568,2246719
-0x540a21655573a3b1d18812d51660b515cafede7ccb1d978c064ba79360916557,"CRV / ETH 0.3%",uniswap-v4-ethereum,curve-dao-token,ethereum,curve-dao-token,534922023,above,single_subject:cg_mcap,85887,3002838
-0x971add32ea87f10bd192671630be3be8a11b8623,"CRV / cvxCRV",curve,curve-dao-token,convex-crv,convex-crv,60783763,below,min_cap_of_two:cg_fdv,52832,1708048
-0x3bff1d56992702ecf7acb0d2a7f23eec459e8587,"CRV / WETH 0.3%",sushiswap-v3-ethereum,curve-dao-token,weth,curve-dao-token,534922023,above,single_subject:cg_mcap,37768,1845762
-0x919fa96e88d67499339577fa202345436bcdaf79,"CRV / WETH 0.3%",uniswap_v3,curve-dao-token,weth,curve-dao-token,534922023,above,single_subject:cg_mcap,26777,2366272
-0xf00dbf57c8ae022a75dbf190298bd794e579ffa0b54bbe8c06c48b3f837e9d9d,"CRV / UNI 1%",uniswap-v4-ethereum,curve-dao-token,uniswap,curve-dao-token,534922023,above,min_cap_of_two:cg_mcap,25649,427186
-0xc3db44adc1fcdfd5671f555236eae49f4a8eea18,"ENA / WETH 0.3%",uniswap_v3,ethena,weth,ethena,1460483587,above,single_subject:cg_mcap,280430,20884260
-0x6bbb0289dfda178555dd1ce4aaa8f1bdbfb1bcde,"ENA / sENA 0.05%",uniswap_v3,ethena,ethena-staked-ena,ethena-staked-ena,184262862,above,min_cap_of_two:cg_mcap,50169,4387286
-0x8c52de694f5a4ce27ea85fe4bc47e08d22c5dfb5f9b38b2a63765ed52cd3b147,"ENA / USDC 0.3%",uniswap-v4-ethereum,ethena,usd-coin,ethena,1460483587,above,single_subject:cg_mcap,37652,6500469
-0x5b29d38ddffd8514f9716cb9fb25f0ad89775c190505b4058953539007a03409,"ETH / ENA 0.3%",uniswap-v4-ethereum,ethereum,ethena,ethena,1460483587,above,single_subject:cg_mcap,25940,264651
-0x0112df46117acf06ac4cfff94a0c250f2bbe0cfe4c83a69815eed28536d5f428,"LIT / ETH 0.3%",uniswap-v4-ethereum,lighter,ethereum,lighter,1032470125,above,single_subject:cg_mcap,128387,5012628
-0x6195aa3314b9636b2a525114aeaa0d2c210d85a63e409c3f809b10ef153f10f5,"LIT / USDC 1%",uniswap-v4-ethereum,lighter,usd-coin,lighter,1032470125,above,single_subject:cg_mcap,94071,4980096
-0xcd4abaf39691dcbb877165b7ba6d04ec6436c22a,"LIT / WETH 1%",uniswap_v3,lighter,weth,lighter,1032470125,above,single_subject:cg_mcap,39160,2146354
-0x88051b0eea095007d3bef21ab287be961f3d8598,"OHM / WETH 0.3%",uniswap_v3,olympus,weth,olympus,302200539,above,single_subject:cg_mcap,127522,3340523
-0x0858e2b0f9d75f7300b38d64482ac2c8df06a755,"OHM / sUSDS 0.3%",uniswap_v3,olympus,susds,olympus,302200539,above,min_cap_of_two:cg_mcap,122982,6159009
-0x6924d7319b4d74d2ce3a52e732ba1ba03d0100f848ce819a21be25b3085e39be,"PAXG / DAI 0.05%",uniswap-v4-ethereum,pax-gold,dai,pax-gold,1867749504,above,single_subject:cg_mcap,96859,3370990
-0x7cb85f75e61226060453a997a7733f76707df337,"PAXG / USDT 0.05%",uniswap_v3,pax-gold,tether,pax-gold,1867749504,above,single_subject:cg_mcap,96227,193999
-0xc58102cf5b0807c23601ac8abc2dc410f4b7846208d35e234950a1c150256acd,"PAXG / USDC 0.05%",uniswap-v4-ethereum,pax-gold,usd-coin,pax-gold,1867749504,above,single_subject:cg_mcap,83008,2597238
-0x218c659b6bbb73d47c7926fc90d9893342534b84,"PAXG / XAUt",fluid-ethereum,pax-gold,tether-gold,pax-gold,1867749504,above,min_cap_of_two:cg_mcap,54488,4258659
-0x4bb2f1067164203bb9007338c523fa7c2fc69bc458c277d285a19650e8ef2239,"PAXG / XAUt 0.05%",uniswap-v4-ethereum,pax-gold,tether-gold,pax-gold,1867749504,above,min_cap_of_two:cg_mcap,44872,5804138
-0xb431c70f800100d87554ac1142c4a94c5fe4c0c4,"PAXG / USDC 0.3%",uniswap_v3,pax-gold,usd-coin,pax-gold,1867749504,above,single_subject:cg_mcap,40980,1524005
-0x5c1a9a7329913354597817638e615e0ecb38ae13679125eb1a3b5953ed4612d4,"PAXG / XAUt 0.03%",uniswap-v4-ethereum,pax-gold,tether-gold,pax-gold,1867749504,above,min_cap_of_two:cg_mcap,39823,2186976
-0x35a69205bed8888653505ba8bdb26c07682efb3a2ac907fd9a481018e2bcbdeb,"UNI / PENDLE 1%",uniswap-v4-ethereum,uniswap,pendle,pendle,398190805,above,min_cap_of_two:cg_mcap,108364,1004265
-0x764510ab1d39cf300e7abe8f5b8977d18f290628,"SKY / WETH 0.3%",uniswap_v3,sky,weth,sky,1468840505,above,single_subject:cg_mcap,218205,7031188
-0x949cddfee3b676c528c9c79ccce04f9062ef8527098dd871a27bc423856443a3,"SKY / USDC 0.3%",uniswap-v4-ethereum,sky,usd-coin,sky,1468840505,above,single_subject:cg_mcap,181205,11569918
-0xd218ab0acf68208883aad66173f721948a7436811a3e3805dad06140d257894e,"SKY / ETH 0.3%",uniswap-v4-ethereum,sky,ethereum,sky,1468840505,above,single_subject:cg_mcap,77581,2124343
-0x7077defcb075e65b690690aa18eec50b7d8daf9a247b31c672f8248ba44607b4,"SKY / MKR 0.3%",uniswap-v4-ethereum,sky,maker,maker,121113732,above,min_cap_of_two:cg_fdv,42179,95349
-0x13dffad596ddfe401253f257f7568679149149615b8de0470b0736b8df2d555b,"SKY / WBTC 1%",uniswap-v4-ethereum,sky,wrapped-bitcoin,sky,1468840505,above,single_subject:cg_mcap,29366,1886786
-0x29dfcb94b1ab021ca46442d2b1a3ed3d2268fdc985d2fe9a3b67a6963670ec02,"SYRUP / ETH 1%",uniswap-v4-ethereum,syrup,ethereum,syrup,236361058,above,single_subject:cg_mcap,226736,7779412
-0x27941a235804f33d81adabb2d56589c5f6ea6556,"SYRUP / WETH 1%",uniswap_v3,syrup,weth,syrup,236361058,above,single_subject:cg_mcap,115019,3632423
-0x69c36d29eb9d2eb3546ab0906de9e7fe56827a358d1f5a3518f2737d33df2903,"XAUt / ETH 0.3%",uniswap-v4-ethereum,tether-gold,ethereum,tether-gold,2675656704,above,single_subject:cg_mcap,220159,9784680
-0xd52eb9285b87e38e3c228b4e339bfe15f24888953966085cd25a2f6403a95326,"XAUt / USDT 0.05%",uniswap-v4-ethereum,tether-gold,tether,tether-gold,2675656704,above,single_subject:cg_mcap,212746,9703436
-0xa8dd78582e31791c08187169a3343365a1e3282c67bc7f93c1e585ddd0a4c4e0,"XAUt / USDC 0.3%",uniswap-v4-ethereum,tether-gold,usd-coin,tether-gold,2675656704,above,single_subject:cg_mcap,168053,8750226
-0xed1050e2fe96f7327dc659613c79e41458e9cf05,"XAUt / USDT",supernova-cl,tether-gold,tether,tether-gold,2675656704,above,single_subject:cg_mcap,123557,4124197
-0xe8a1f39c16eea2844e98f951d711bb4bb31557ad,"XAUt / WBTC 0.3%",uniswap_v3,tether-gold,wrapped-bitcoin,tether-gold,2675656704,above,single_subject:cg_mcap,77760,1970956
-0x5791b454341cda5a501956623095896e73d6861a03e41f9a104798e66ad1031f,"XAUt / WBTC 0.3%",uniswap-v4-ethereum,tether-gold,wrapped-bitcoin,tether-gold,2675656704,above,single_subject:cg_mcap,72850,1779103
-0xd0fc8ba7e267f2bc56044a7715a489d851dc6d78,"UNI / USDC 0.3%",uniswap_v3,uniswap,usd-coin,uniswap,4051927524,above,single_subject:cg_mcap,97647,20158202
+0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb,"AAVE / WETH 0.3%",uniswap_v3,aave,weth,aave,1886158714,above,single_subject:cg_mcap,704190,34088717
+0x4a24fcf3c1cbebd80d09537c7aa15adf2d228aa1b9ba1b0e5fb82e66dc96c0d2,"USDT / WBTC 0.05%",uniswap-v4-ethereum,tether,wrapped-bitcoin,,,above,both_quote,698789,19316785
+0x00000000000014aa86c5d3c41765bb24e11bd701-0xde39735c66c6f51669c80e1fde362e42a1b1b927d49dee8d6577765a4e4d38c6,"USDC / ETH 0.05%",ekubo-v3-ethereum,usd-coin,ethereum,,,above,both_quote,697012,22698679
+0xd3d2e2692501a5c9ca623199d38826e513033a17,"UNI / WETH",uniswap_v2,uniswap,weth,uniswap,3952497590,above,single_subject:cg_mcap,695326,10086296
+0x5ae13baaef0620fdae1d355495dc51a17adb4082,"PAXG / USDC 0.05%",uniswap_v3,pax-gold,usd-coin,pax-gold,1861852952,above,single_subject:cg_mcap,667462,44450059
+0x276084527b801e00db8e4410504f9baf93f72c67,"rsETH / ETH",fluid-ethereum,kelp-dao-restaked-eth,ethereum,kelp-dao-restaked-eth,1027092182,above,single_subject:cg_mcap,644504,4233429
+0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852,"WETH / USDT",uniswap_v2,weth,tether,,,above,both_quote,641366,19291066
+0x20c3a15e34e5d88aeba004b0753af69e4f6bea80eae2263f7a92e919cd33cc56,"USDT / WBTC 0.3%",uniswap-v4-ethereum,tether,wrapped-bitcoin,,,above,both_quote,641061,19752500
+0x5459f9d1f649b9f1353a50fd0c8d796b4feb11926bec295cb0614a135febdf9a,"tBTC / cbBTC 0.01%",uniswap-v4-ethereum,tbtc,coinbase-wrapped-btc,,,above,both_quote,638562,55001420
+0x90a64ed1c47392829a39df15ff25401c21818ea2db9e2538c9c25182f76b7c1e,"FUSE / ETH 1.1%",uniswap-v4-ethereum,,ethereum,FUSE,1227915,below,single_subject:gt_fdv,621217,3862207
+0x0b316150f91dbd9a234b870cc75aaf57def1be43,"DEFO / WETH",uniswap_v2,,weth,DEFO,244318,below,single_subject:gt_mcap,620695,639997
+0x433a00819c771b33fa7223a5b3499b24fbcd1bbc,"wTAO / WETH 1%",uniswap_v3,wrapped-tao,weth,wrapped-tao,24363815,below,single_subject:cg_mcap,607625,25740076
+0x553e9c493678d8606d6a5ba284643db2110df823,"rETH / WETH 0.01%",uniswap_v3,rocket-pool-eth,weth,,,above,both_quote,594775,22535994
+0x76dbd3b36d5f0a1fa1c38b75984a9ed57aa1a36a6dbab77b9503ef9349dbb617,"frxUSD / USDC 0.008%",uniswap-v4-ethereum,frax-usd,usd-coin,,,above,both_quote,583457,8650394
+0x9a772018fbd77fcd2d25657e5c547baff3fd7d16,"WBTC / USDC 0.05%",uniswap_v3,wrapped-bitcoin,usd-coin,,,above,both_quote,582277,17600908
+0x9c4fe5ffd9a9fc5678cfbd93aa2d4fd684b67c4c,"PAXG / WETH",uniswap_v2,pax-gold,weth,pax-gold,1861852952,above,single_subject:cg_mcap,577642,13403601
+0x635ef0056a597d13863b73825cca297236578595,"GHO / crvUSD",curve,gho,crvusd,,,above,both_quote,574282,10211758
+0x2621cc0b3f3c079c1db0e80794aa24976f0b9e3c,"USDS / SKY",uniswap_v2,usds,sky,sky,1428700579,above,single_subject:cg_mcap,568460,16408230
+0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14,"crvUSD / WETH / CRV",curve,crvusd,weth,,,above,both_quote,335557,5023908
+0x7418de766caaf03f971958d42d227509f1ffdbd0049f26bb697f209a31e6fe29,"POWER / ETH 0.05%",uniswap-v4-ethereum,power-protocol,ethereum,power-protocol,38004662,below,single_subject:cg_mcap,563972,1543958
+0xcfecc1c9f3cb6190cb1ff7f65a130bfbe5107d38,"LDO / WETH 0.05%",uniswap_v3,lido-dao,weth,lido-dao,280709674,above,single_subject:cg_mcap,562527,46446756
+0xf8e349d1d827a6edf17ee673664cfad4ca78c533,"SEI / USDC 0.3%",uniswap_v3,layerzero-bridged-sei,usd-coin,layerzero-bridged-sei,3191580,below,single_subject:cg_fdv,549569,27731130
+0xac216046ab7df980f1b8c5e254c922ef7e0a2d11,"USDSM / USDC",curve,stable-mint-usd,usd-coin,stable-mint-usd,12358924,below,single_subject:cg_mcap,548417,1410574
+0x00000000000014aa86c5d3c41765bb24e11bd701-0x1f5ddf72564f731684c5770af5a25d4a3855c13e9c841a2c8b43b25fff19b0ec,"cbBTC / WBTC 0.004%",ekubo-v3-ethereum,coinbase-wrapped-btc,wrapped-bitcoin,,,above,both_quote,532027,40436033
+0x8e176eb9a5074c807cfffcedb5c5483a12e37270,"WETH / USDC 0.13%",balancer_ethereum,weth,usd-coin,,,above,both_quote,520319,1445104
+0x4674abc5796e1334b5075326b39b748bee9eaa34,"AAVE / WETH 0.05%",uniswap_v3,aave,weth,aave,1886158714,above,single_subject:cg_mcap,518659,23471239
+0x7486ff76f69872d27b22dada4078bd55b36a5324,"WBTC / WETH 0.3%",sushiswap-v3-ethereum,wrapped-bitcoin,weth,,,above,both_quote,487670,9193380
+0xf6e8088529094bc485561fa2a03e3d19c9a60f5d99a997e8fe16ab4ca2db277a,"DAI / USDT 0.007%",uniswap-v4-ethereum,dai,tether,,,above,both_quote,461249,29083077
+0xf063bd202e45d6b2843102cb4ece339026645d4a,"USDe / USDT",fluid-ethereum,ethena-usde,tether,,,above,both_quote,454963,18964241
+0x50e0b4c7d399db367f5b60f911c24b3a16d5c6a9acd75afe6ffd7b50637a273f,"3x / ETH",uniswap-v4-ethereum,,ethereum,3x,176035,below,single_subject:gt_fdv,451355,580444
+0x859f7092f56c43bb48bb46de7119d9c799716cdf,"XCN / WETH",uniswap_v2,chain-2,weth,chain-2,156102806,above,single_subject:cg_mcap,449441,5390692
+0x6546055f46e866a4b9a4a13e81273e3152bae5da,"XAUt / USDT 0.05%",uniswap_v3,tether-gold,tether,tether-gold,2666288366,above,single_subject:cg_mcap,449112,28802504
+0x13394005c1012e708fce1eb974f1130fdc73a5ce,"PYUSD / USDC 0.01%",uniswap_v3,paypal-usd,usd-coin,,,above,both_quote,446653,8091587
+0x5d4f3c6fa16908609bac31ff148bd002aa6b8c83,"LINK / WETH 0.05%",uniswap_v3,chainlink,weth,chainlink,8148325666,above,single_subject:cg_mcap,445477,22405840
+0xf5f5b97624542d72a9e06f04804bf81baa15e2b4,"USDT / WBTC / WETH",curve,tether,wrapped-bitcoin,,,above,both_quote,378543,2280429
+0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8,"DAI / WETH 0.3%",uniswap_v3,dai,weth,,,above,both_quote,411019,11298893
+0x04c8577958ccc170eb3d2cca76f9d51bc6e42d8f,"USDC / USDT 0.01%",pancakeswap-v3-ethereum,usd-coin,tether,,,above,both_quote,399392,10281531
+0x68c498df05982d635914ee0ae6501c749a78b473,"fwDAI / fwWETH",ring-exchange-ethereum,,,fwDAI,,unknown,gt_fdv_only_above_threshold,397491,8371927
+0x9aac67deef711d438ad711ae495b8cb43a6ee1a8,"MNT / USDe 0.3%",uniswap_v3,mantle,ethena-usde,mantle,1798460068,above,single_subject:cg_mcap,396755,12762083
+0x331b8e7f8d7b281cca61d1de8beb4cf2dad61327,"$Go / WETH",uniswap_v2,,weth,$Go,3023514,below,single_subject:gt_fdv,372934,967526
+0x167478921b907422f8e88b43c4af2b8bea278d3a,"sDAI / sUSDe",curve,savings-dai,ethena-staked-usde,savings-dai,164808173,above,min_cap_of_two:cg_mcap,372703,22731959
+0x706dcb5e9cb7027d8b0c61f7fa144e65d575064a,"GHO / USDC 0.01%",uniswap_v3,gho,usd-coin,,,above,both_quote,369459,10872179
+0xd9ff8396554a0d18b2cfbec53e1979b7ecce8373,"crvUSD / WBTC",curve,crvusd,wrapped-bitcoin,,,above,both_quote,360910,6446080
+0x16a92c8f5fc3087690bc09389fa7e038c47fa26b4f0ca978509d366a62982185,"USDC / ADS 0.01%",uniswap-v4-ethereum,usd-coin,adshares,adshares,17620833,below,single_subject:cg_mcap,357366,7309870
+0xfd1c4559ad314e035e2440d88574ce44ff10ab05cfc90e4c8591b2fae7c73a6f,"SEND / ETH 1%",uniswap-v4-ethereum,,ethereum,SEND,836896,below,single_subject:gt_fdv,353021,9821225
+0xa478c2975ab1ea89e8196811f51a7b7ade33eb11,"DAI / WETH",uniswap_v2,dai,weth,,,above,both_quote,346467,8026172
+0xf1f435b05d255a5dbde37333c0f61da6f69c6127,"crvUSD / tBTC",curve,crvusd,tbtc,,,above,both_quote,343318,6686696
+0x763d3b7296e7c9718ad5b058ac2692a19e5b3638,"USDC / WETH 0.3%",sushiswap-v3-ethereum,usd-coin,weth,,,above,both_quote,339406,7697092
+0x625e92624bc2d88619accc1788365a69767f6200,"PYUSD / crvUSD",curve,paypal-usd,crvusd,,,above,both_quote,333267,6287589
+0x7e13876b92f1a62c599c231f783f682e96b91761,"stLINK / LINK",curve,stake-link-staked-link,chainlink,stake-link-staked-link,77616855,below,min_cap_of_two:cg_fdv,326970,6336439
+0x909e4a022a7505d44b19b36fe76ee18567379ee4c9697438acde2e159c006c32,"FOLD / ETH 0.3%",uniswap-v4-ethereum,interfold,ethereum,interfold,16487194,below,single_subject:cg_mcap,324503,94042238
+0x9c7ed68b00dc4f45243b07ce71a54a86e8f8fcbb,"SERV / WETH 1%",uniswap_v3,openserv,weth,openserv,14389294,below,single_subject:cg_mcap,322783,4271244
+0x86f874212335af27c41cdb855c2255543d1499ce,"weETH / ETH",fluid-ethereum,wrapped-eeth,ethereum,,,above,both_quote,319962,22994311
+0x4068038ab5490063a3ead93b3712ed082e62bd59,"ICP / WETH 0.05%",uniswap_v3,internet-computer,weth,internet-computer,1382931528,above,single_subject:cg_mcap,319474,8288112
+0x2c2226a6381e68a86c1a8dcb8d9fdab050959dd5,"HLX / USDC 0.3%",uniswap_v3,helix-ai,usd-coin,helix-ai,4803064847,above,single_subject:cg_fdv,318522,10392337
+0xb07d640fd9e2eb9dc81b953c8e4fd006bdfeaf276010fb5418eb763ca15abfb3,"VIBE / ETH 1%",uniswap-v4-ethereum,,ethereum,VIBE,9109829,below,single_subject:gt_fdv,307377,15688133
+0x9a84a1852bc7fb608794960960adb04666a12b41,"TRX / USDC",uniswap_v2,wrapped-tron,usd-coin,wrapped-tron,1381737880,above,single_subject:cg_mcap,303729,911758
+0x5c2ab69eb2bf12a2f4572d178687bd4660512972,"reUSD / sUSDe",curve,re-protocol-reusd,ethena-staked-usde,ethena-staked-usde,1313875034,above,single_subject:cg_mcap,296392,41081738
+0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb,"PENDLE / WETH 0.3%",uniswap_v3,pendle,weth,pendle,393811369,above,single_subject:cg_mcap,289041,3972021
+0xeac10ed910ed8b167bd5785954d53641705dceb46c4fd077f7c265bef455ffb8,"sUSDe / USDT 0.025%",uniswap-v4-ethereum,ethena-staked-usde,tether,ethena-staked-usde,1313875034,above,single_subject:cg_mcap,284388,8362207
+0x339d4e50b7eb4aad7eab94db04be1c684ea42555ef189ce9c488964bdb91d4e9,"1INCH / UNI 1%",uniswap-v4-ethereum,1inch,uniswap,1inch,122489330,above,min_cap_of_two:cg_mcap,194103,3683005
+0x6bf6ce5b16c6941ada9a4e2a003209174cd2ec6fcd619a6e045bdff0b239d1fe,"1INCH / CRV 1%",uniswap-v4-ethereum,1inch,curve-dao-token,1inch,122489330,above,min_cap_of_two:cg_mcap,60034,2266121
+0x62559deabae3611186a78c5629c34ef5e4f5031377f8ea9d6e00f7fa3a2bd826,"1INCH / WBTC 1%",uniswap-v4-ethereum,1inch,wrapped-bitcoin,1inch,122489330,above,single_subject:cg_mcap,40158,1255327
+0x1d6ebf506eacf0e98a8c4566687380ddf1601192acd9bce29feeaf0c0245ea6f,"1INCH / wstETH 1%",uniswap-v4-ethereum,1inch,wrapped-steth,1inch,122489330,above,single_subject:cg_mcap,37602,3830762
+0x32dd66389b5c367a3e60b83fd7aa309361ece42946eb04f7ed05b1c244be3a7a,"1INCH / AAVE 1%",uniswap-v4-ethereum,1inch,aave,1inch,122489330,above,min_cap_of_two:cg_mcap,36099,1954652
+0x3de27efa2f1aa663ae5d458857e731c129069f29,"wstETH / AAVE 0.292%",balancer_ethereum,wrapped-steth,aave,aave,1886158714,above,single_subject:cg_mcap,184736,11197892
+0x5d059911b0fe3f9f72c701772cb7826f32fad07a0fccbf0c90d899b6bb407710,"AAVE / USDC 0.25%",uniswap-v4-ethereum,aave,usd-coin,aave,1886158714,above,single_subject:cg_mcap,59976,2322892
+0x59c38b6775ded821f010dbd30ecabdcf84e04756,"AAVE / UNI 0.3%",uniswap_v3,aave,uniswap,aave,1886158714,above,min_cap_of_two:cg_mcap,55595,2112263
+0x2187d779d9b173dd7202b38b54dca6eb04d1b32ca261980869195b5b9fa97ef8,"AAVE / USDC 0.3%",uniswap-v4-ethereum,aave,usd-coin,aave,1886158714,above,single_subject:cg_mcap,39264,5853107
+0x4d1ad4a9e61bc0e5529d64f38199ccfca56f5a42,"AAVE / USDT 0.3%",uniswap_v3,aave,tether,aave,1886158714,above,single_subject:cg_mcap,25061,2980007
+0x88a38552da2d473b57b01beab3751b4d442cbf5130ba1da347c9a00cc87b0ce1,"apyUSD / USDC 1%",uniswap-v4-ethereum,apyusd,usd-coin,apyusd,178974554,above,single_subject:cg_mcap,93294,93294
+0xc21b5527c3d99226eeb89753d161a2bd926e1c952578cd4b2507f8c958da416d,"apyUSD / apxUSD 0.1%",uniswap-v4-ethereum,apyusd,apxusd,apyusd,178974554,above,single_subject:cg_mcap,28533,10309941
+0xfad57d2039c21811c8f2b5d5b65308aa99d31559,"LINK / USDC 0.3%",uniswap_v3,chainlink,usd-coin,chainlink,8148325666,above,single_subject:cg_mcap,91009,2944785
+0x50ae33c238824aa1937d5d9f1766c487bca39b548f8d957994e8357eeeca3280,"USDC / LINK 0.3%",uniswap-v4-ethereum,usd-coin,chainlink,chainlink,8148325666,above,single_subject:cg_mcap,86725,3384399
+0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974,"LINK / WETH",uniswap_v2,chainlink,weth,chainlink,8148325666,above,single_subject:cg_mcap,35009,968734
+0xac5a2c404ebba22a869998089ac7893ff4e1f0a7,"LINK / USDT 0.3%",uniswap_v3,chainlink,tether,chainlink,8148325666,above,single_subject:cg_mcap,32922,993057
+0x9f178e86e42ddf2379cb3d2acf9ed67a1ed2550a,"UNI / LINK 0.3%",uniswap_v3,uniswap,chainlink,uniswap,3952497590,above,min_cap_of_two:cg_mcap,25863,509688
+0xb576491f1e6e5e62f1d8f26062ee822b40b0e0d4,"CVX / WETH",curve,convex-finance,weth,convex-finance,170663265,above,single_subject:cg_mcap,173702,9284897
+0x47d5e1679fe5f0d9f0a657c6715924e33ce05093,"frxETH / CVX",curve,frax-ether,convex-finance,frax-ether,147377310,above,min_cap_of_two:cg_mcap,37568,2225269
+0x540a21655573a3b1d18812d51660b515cafede7ccb1d978c064ba79360916557,"CRV / ETH 0.3%",uniswap-v4-ethereum,curve-dao-token,ethereum,curve-dao-token,496321216,above,single_subject:cg_mcap,85887,3033002
+0x971add32ea87f10bd192671630be3be8a11b8623,"CRV / cvxCRV",curve,curve-dao-token,convex-crv,convex-crv,56199039,below,min_cap_of_two:cg_fdv,52832,1747669
+0x3bff1d56992702ecf7acb0d2a7f23eec459e8587,"CRV / WETH 0.3%",sushiswap-v3-ethereum,curve-dao-token,weth,curve-dao-token,496321216,above,single_subject:cg_mcap,37768,1875295
+0x919fa96e88d67499339577fa202345436bcdaf79,"CRV / WETH 0.3%",uniswap_v3,curve-dao-token,weth,curve-dao-token,496321216,above,single_subject:cg_mcap,26777,2405571
+0xf00dbf57c8ae022a75dbf190298bd794e579ffa0b54bbe8c06c48b3f837e9d9d,"CRV / UNI 1%",uniswap-v4-ethereum,curve-dao-token,uniswap,curve-dao-token,496321216,above,min_cap_of_two:cg_mcap,25649,447596
+0xc3db44adc1fcdfd5671f555236eae49f4a8eea18,"ENA / WETH 0.3%",uniswap_v3,ethena,weth,ethena,1410994730,above,single_subject:cg_mcap,280430,21080608
+0x6bbb0289dfda178555dd1ce4aaa8f1bdbfb1bcde,"ENA / sENA 0.05%",uniswap_v3,ethena,ethena-staked-ena,ethena-staked-ena,179084938,above,min_cap_of_two:cg_mcap,50169,4411481
+0x8c52de694f5a4ce27ea85fe4bc47e08d22c5dfb5f9b38b2a63765ed52cd3b147,"ENA / USDC 0.3%",uniswap-v4-ethereum,ethena,usd-coin,ethena,1410994730,above,single_subject:cg_mcap,37652,5837012
+0x5b29d38ddffd8514f9716cb9fb25f0ad89775c190505b4058953539007a03409,"ETH / ENA 0.3%",uniswap-v4-ethereum,ethereum,ethena,ethena,1410994730,above,single_subject:cg_mcap,25940,286475
+0x553f5e94603f1fcdaa08eb22499d59e4a39e2f8d071c3c6946c27e5e38754ffc,"ETHFI / ETH",uniswap-v4-ethereum,ether-fi,ethereum,ether-fi,575588264,above,single_subject:cg_mcap,167683,4721606
+0x06f00544c0bc62e6db10f46d370dfccdc23d8189,"ETHFI / WETH 0.3%",uniswap_v3,ether-fi,weth,ether-fi,575588264,above,single_subject:cg_mcap,110063,3864049
+0x0112df46117acf06ac4cfff94a0c250f2bbe0cfe4c83a69815eed28536d5f428,"LIT / ETH 0.3%",uniswap-v4-ethereum,lighter,ethereum,lighter,1004154713,above,single_subject:cg_mcap,128387,5112896
+0x6195aa3314b9636b2a525114aeaa0d2c210d85a63e409c3f809b10ef153f10f5,"LIT / USDC 1%",uniswap-v4-ethereum,lighter,usd-coin,lighter,1004154713,above,single_subject:cg_mcap,94071,5038224
+0xcd4abaf39691dcbb877165b7ba6d04ec6436c22a,"LIT / WETH 1%",uniswap_v3,lighter,weth,lighter,1004154713,above,single_subject:cg_mcap,39160,2184159
+0x6924d7319b4d74d2ce3a52e732ba1ba03d0100f848ce819a21be25b3085e39be,"PAXG / DAI 0.05%",uniswap-v4-ethereum,pax-gold,dai,pax-gold,1861852952,above,single_subject:cg_mcap,96859,3445489
+0x7cb85f75e61226060453a997a7733f76707df337,"PAXG / USDT 0.05%",uniswap_v3,pax-gold,tether,pax-gold,1861852952,above,single_subject:cg_mcap,96227,291133
+0xc58102cf5b0807c23601ac8abc2dc410f4b7846208d35e234950a1c150256acd,"PAXG / USDC 0.05%",uniswap-v4-ethereum,pax-gold,usd-coin,pax-gold,1861852952,above,single_subject:cg_mcap,83008,2658151
+0x218c659b6bbb73d47c7926fc90d9893342534b84,"PAXG / XAUt",fluid-ethereum,pax-gold,tether-gold,pax-gold,1861852952,above,min_cap_of_two:cg_mcap,54488,4201016
+0x4bb2f1067164203bb9007338c523fa7c2fc69bc458c277d285a19650e8ef2239,"PAXG / XAUt 0.05%",uniswap-v4-ethereum,pax-gold,tether-gold,pax-gold,1861852952,above,min_cap_of_two:cg_mcap,44872,5588036
+0xb431c70f800100d87554ac1142c4a94c5fe4c0c4,"PAXG / USDC 0.3%",uniswap_v3,pax-gold,usd-coin,pax-gold,1861852952,above,single_subject:cg_mcap,40980,1547802
+0x5c1a9a7329913354597817638e615e0ecb38ae13679125eb1a3b5953ed4612d4,"PAXG / XAUt 0.03%",uniswap-v4-ethereum,pax-gold,tether-gold,pax-gold,1861852952,above,min_cap_of_two:cg_mcap,39823,2209724
+0x35a69205bed8888653505ba8bdb26c07682efb3a2ac907fd9a481018e2bcbdeb,"UNI / PENDLE 1%",uniswap-v4-ethereum,uniswap,pendle,pendle,393811369,above,min_cap_of_two:cg_mcap,108364,1088042
+0x764510ab1d39cf300e7abe8f5b8977d18f290628,"SKY / WETH 0.3%",uniswap_v3,sky,weth,sky,1428700579,above,single_subject:cg_mcap,218205,7180040
+0x949cddfee3b676c528c9c79ccce04f9062ef8527098dd871a27bc423856443a3,"SKY / USDC 0.3%",uniswap-v4-ethereum,sky,usd-coin,sky,1428700579,above,single_subject:cg_mcap,181205,11618733
+0xd218ab0acf68208883aad66173f721948a7436811a3e3805dad06140d257894e,"SKY / ETH 0.3%",uniswap-v4-ethereum,sky,ethereum,sky,1428700579,above,single_subject:cg_mcap,77581,2186924
+0x7077defcb075e65b690690aa18eec50b7d8daf9a247b31c672f8248ba44607b4,"SKY / MKR 0.3%",uniswap-v4-ethereum,sky,maker,maker,119298142,above,min_cap_of_two:cg_fdv,42179,138895
+0x13dffad596ddfe401253f257f7568679149149615b8de0470b0736b8df2d555b,"SKY / WBTC 1%",uniswap-v4-ethereum,sky,wrapped-bitcoin,sky,1428700579,above,single_subject:cg_mcap,29366,1901133
+0x69c36d29eb9d2eb3546ab0906de9e7fe56827a358d1f5a3518f2737d33df2903,"XAUt / ETH 0.3%",uniswap-v4-ethereum,tether-gold,ethereum,tether-gold,2666288366,above,single_subject:cg_mcap,220159,9977553
+0xd52eb9285b87e38e3c228b4e339bfe15f24888953966085cd25a2f6403a95326,"XAUt / USDT 0.05%",uniswap-v4-ethereum,tether-gold,tether,tether-gold,2666288366,above,single_subject:cg_mcap,212746,9846605
+0xa8dd78582e31791c08187169a3343365a1e3282c67bc7f93c1e585ddd0a4c4e0,"XAUt / USDC 0.3%",uniswap-v4-ethereum,tether-gold,usd-coin,tether-gold,2666288366,above,single_subject:cg_mcap,168053,8847873
+0xed1050e2fe96f7327dc659613c79e41458e9cf05,"XAUt / USDT",supernova-cl,tether-gold,tether,tether-gold,2666288366,above,single_subject:cg_mcap,123557,4211920
+0xe8a1f39c16eea2844e98f951d711bb4bb31557ad,"XAUt / WBTC 0.3%",uniswap_v3,tether-gold,wrapped-bitcoin,tether-gold,2666288366,above,single_subject:cg_mcap,77760,2074876
+0x5791b454341cda5a501956623095896e73d6861a03e41f9a104798e66ad1031f,"XAUt / WBTC 0.3%",uniswap-v4-ethereum,tether-gold,wrapped-bitcoin,tether-gold,2666288366,above,single_subject:cg_mcap,72850,1837085
+0xd0fc8ba7e267f2bc56044a7715a489d851dc6d78,"UNI / USDC 0.3%",uniswap_v3,uniswap,usd-coin,uniswap,3952497590,above,single_subject:cg_mcap,97647,20263645
